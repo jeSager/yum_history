@@ -9,6 +9,8 @@
 * The file `grub.conf` is a copy of the current config
   - Menu options to boot from each installed kernel were added
 
+* The file `grub.conf.old` was an initial attempt and includes a no-longer installed kernel
+
 * The file `kernel_versions.txt` is the output of `rpm -qa kernel`
 
 

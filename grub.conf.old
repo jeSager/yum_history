@@ -7,10 +7,10 @@
 #
 ################################################################################
 
-title **  LATEST  ** kernel-2.6.32-642.15.1.el6.x86_64
+title **  OLDEST  ** kernel-2.6.32-573.12.1.el6.x86_64
   root (hd0,0)
-  kernel /vmlinuz-2.6.32-642.15.1.el6.x86_64 ro root=/dev/mapper/vg_tachyon-lv_root
-  initrd /initrd-2.6.32-642.15.1.el6.x86_64kdump.img
+  kernel /vmlinuz-2.6.32-573.12.1.el6.x86_64 ro root=/dev/mapper/vg_tachyon-lv_root
+  initrd /initrd-2.6.32-573.12.1.el6.x86_64kdump.img
 
 ################################################################################
 
@@ -21,9 +21,17 @@ title ** PREVIOUS ** kernel-2.6.32-573.18.1.el6.x86_64
 
 ################################################################################
 
-title **  OLDEST  ** kernel-2.6.32-573.12.1.el6.x86_64
+title **  PANIC   ** kernel-2.6.32-642.15.1.el6.x86_64
   root (hd0,0)
-  kernel /vmlinuz-2.6.32-573.12.1.el6.x86_64 ro root=/dev/mapper/vg_tachyon-lv_root
-  initrd /initrd-2.6.32-573.12.1.el6.x86_64kdump.img
+  kernel /vmlinuz-2.6.32-642.15.1.el6.x86_64 ro root=/dev/mapper/vg_tachyon-lv_root
+  initrd /initrd-2.6.32-642.15.1.el6.x86_64kdump.img
 
 ################################################################################
+
+title **   NEW    ** kernel-2.6.32-696.1.1.el6.x86_64
+  root (hd0,0)
+  kernel /vmlinuz-2.6.32-696.1.1.el6.x86_64 ro root=/dev/mapper/vg_tachyon-lv_root
+  initrd /initrd-2.6.32-696.1.1.el6.x86_64kdump.img
+
+################################################################################
+
