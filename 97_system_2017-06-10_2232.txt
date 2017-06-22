@@ -1,0 +1,20 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 97
+Begin time     : Sat Jun 10 22:32:20 2017
+Begin rpmdb    : 1853:f389c8c7ad07a62447ad17c1b31f46b7791345ad
+End time       :            22:32:22 2017 (2 seconds)
+End rpmdb      : 1855:228d58a3e229b5c804ec3c4ccb8577f2d1255d00
+User           : System <unset>
+Return-Code    : Success
+Command Line   : -y install git golang-github-mattn-go-sqlite3-devel sqlite3-devel golang-googlecode-sqlite-devel
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install     golang-googlecode-sqlite-devel-0-0.8.hg74691fb6f837.el6.x86_64 @epel
+    Dep-Install sqlite-devel-3.6.20-1.el6_7.2.x86_64                           @base
+history info

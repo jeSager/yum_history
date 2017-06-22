@@ -1,0 +1,19 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 100
+Begin time     : Mon Jun 12 18:03:04 2017
+Begin rpmdb    : 1864:394f155cc76a634bc842802974391ddff88b8672
+End time       :            18:03:07 2017 (3 seconds)
+End rpmdb      : 1865:b6b57773721b7c8e3ab978522c84abffe1f2a508
+User           : System <unset>
+Return-Code    : Success
+Command Line   : install memtester
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install memtester-4.2.1-1.el6.x86_64 @epel
+history info

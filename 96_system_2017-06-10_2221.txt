@@ -1,0 +1,19 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 96
+Begin time     : Sat Jun 10 22:21:58 2017
+Begin rpmdb    : 1852:7f93c5040bb2f656f38c7b99d5a37a56b9889d00
+End time       :            22:22:00 2017 (2 seconds)
+End rpmdb      : 1853:f389c8c7ad07a62447ad17c1b31f46b7791345ad
+User           : System <unset>
+Return-Code    : Success
+Command Line   : install go-bindata
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install go-bindata-0-0.4.git79847ab.el6.x86_64 @epel
+history info

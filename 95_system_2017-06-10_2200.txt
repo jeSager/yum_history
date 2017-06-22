@@ -1,0 +1,19 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 95
+Begin time     : Sat Jun 10 22:00:52 2017
+Begin rpmdb    : 1851:ff3e07d68dd9c2b1d2831a4265bac6ce0fe062c1
+End time       :            22:00:53 2017 (1 seconds)
+End rpmdb      : 1852:7f93c5040bb2f656f38c7b99d5a37a56b9889d00
+User           : System <unset>
+Return-Code    : Success
+Command Line   : install git golang-github-mattn-go-sqlite3-devel.noarch
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install golang-github-mattn-go-sqlite3-devel-1.0.0-1.el6.noarch @epel
+history info

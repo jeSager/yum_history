@@ -1,0 +1,21 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 94
+Begin time     : Sat Jun 10 21:59:35 2017
+Begin rpmdb    : 1848:7880e7e3770ca2761135db2c8955807df12b38a1
+End time       :            21:59:58 2017 (23 seconds)
+End rpmdb      : 1851:ff3e07d68dd9c2b1d2831a4265bac6ce0fe062c1
+User           : System <unset>
+Return-Code    : Success
+Command Line   : install golang
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install     golang-1.7.4-1.el6.x86_64     @epel
+    Dep-Install golang-bin-1.7.4-1.el6.x86_64 @epel
+    Dep-Install golang-src-1.7.4-1.el6.noarch @epel
+history info

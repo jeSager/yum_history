@@ -1,0 +1,20 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 98
+Begin time     : Sat Jun 10 22:39:18 2017
+Begin rpmdb    : 1855:228d58a3e229b5c804ec3c4ccb8577f2d1255d00
+End time       :            22:39:20 2017 (2 seconds)
+End rpmdb      : 1857:48a12436c39e2f1980c7898f1616887babd0e4af
+User           : System <unset>
+Return-Code    : Success
+Command Line   : -y install python-lesscpy
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+    Install     python-lesscpy-0.9j-3.el6.noarch @epel
+    Dep-Install python-ply-3.4-4.el6.noarch      @epel
+history info

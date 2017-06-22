@@ -1,0 +1,106 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+ID     | Login user               | Date and time    | Action(s)      | Altered
+-------------------------------------------------------------------------------
+   101 | System <unset>           | 2017-06-12 18:31 | E, I, U        |   20 ##
+   100 | System <unset>           | 2017-06-12 18:03 | Install        |    1   
+    99 | System <unset>           | 2017-06-10 22:41 | Install        |    7   
+    98 | System <unset>           | 2017-06-10 22:39 | Install        |    2   
+    97 | System <unset>           | 2017-06-10 22:32 | Install        |    2   
+    96 | System <unset>           | 2017-06-10 22:21 | Install        |    1   
+    95 | System <unset>           | 2017-06-10 22:00 | Install        |    1   
+    94 | System <unset>           | 2017-06-10 21:59 | Install        |    3   
+    93 | Jason D. Bakos <jbakos>  | 2017-05-26 15:04 | E, I, U        |  441 **
+    92 | Jason D. Bakos <jbakos>  | 2017-04-21 15:12 | Install        |    1   
+    91 | Jason D. Bakos <jbakos>  | 2017-03-21 10:23 | Install        |    1   
+    90 | Charles ... <cad3>       | 2017-03-18 13:02 | Install        |    1   
+    89 | Jason D. Bakos <jbakos>  | 2017-03-18 11:29 | Install        |    1   
+    88 | Jason D. Bakos <jbakos>  | 2017-03-18 11:28 | Update         |    2 ss
+    87 | Jason D. Bakos <jbakos>  | 2017-03-18 11:25 | Install        |    1   
+    86 | Jason D. Bakos <jbakos>  | 2017-03-18 11:02 | E, I, O, U     |  596 EE
+    85 | System <unset>           | 2017-03-17 15:39 | Update         |    1 EE
+    84 | System <unset>           | 2017-01-10 09:44 | Install        |    2   
+    83 | Joshua ... <jal>         | 2016-11-21 16:14 | Update         |    2   
+    82 | System <unset>           | 2016-08-09 16:45 | Update         |    2   
+    81 | Jason D. Bakos <jbakos>  | 2016-06-20 15:04 | Install        |    2   
+    80 | System <unset>           | 2016-06-03 13:47 | Update         |    1   
+    79 | Spencer Perry <sp1>      | 2016-05-31 15:16 | Install        |    2   
+    78 | System <unset>           | 2016-05-16 16:34 | Install        |    5   
+    77 | System <unset>           | 2016-05-16 16:29 | Install        |    2   
+    76 | Jason D. Bakos <jbakos>  | 2016-03-21 11:59 | Install        |   50   
+    75 | Jason D. Bakos <jbakos>  | 2016-03-21 11:53 | Update         |   21 EE
+    74 | Jason D. Bakos <jbakos>  | 2016-03-21 11:44 | Install        |   45   
+    73 | Jason D. Bakos <jbakos>  | 2016-03-21 11:43 | I, U           |   14   
+    72 | Charles ... <cad3>       | 2016-03-01 16:16 | Install        |    1   
+    71 | Charles ... <cad3>       | 2016-02-17 12:35 | Install        |   10   
+    70 | Charles ... <cad3>       | 2016-02-17 12:32 | Install        |    2   
+    69 | Charles ... <cad3>       | 2016-02-17 12:31 | Install        |    6   
+    68 | Charles ... <cad3>       | 2016-02-17 12:31 | Install        |    1   
+    67 | Charles ... <cad3>       | 2016-02-17 12:30 | Erase          |   33 EE
+    66 | Charles ... <cad3>       | 2016-02-17 12:21 | Install        |    1   
+    65 | Charles ... <cad3>       | 2016-02-17 12:05 | Install        |    2 PP
+    64 | Charles ... <cad3>       | 2016-02-17 11:56 | E, I, U        |   56 **
+    63 | Jason D. Bakos <jbakos>  | 2016-02-11 11:05 | Install        |    2   
+    62 | System <unset>           | 2016-01-29 15:37 | Install        |    1   
+    61 | System <unset>           | 2016-01-29 15:26 | Erase          |    1   
+    60 | System <unset>           | 2016-01-29 15:13 | Install        |    2   
+    59 | root <root>              | 2016-01-22 14:36 | E, I, U        |  149 EE
+    58 | System <unset>           | 2016-01-19 16:15 | Install        |    3   
+    57 | System <unset>           | 2016-01-19 16:14 | Install        |    1   
+    56 | Konstantin ... <kyrubin> | 2015-11-30 15:18 | Install        |    1   
+    55 | System <unset>           | 2015-11-24 17:30 | Install        |    1   
+    54 | Charles ... <cad3>       | 2015-10-02 11:59 | Install        |   14 PP
+    53 | Jason D. Bakos <jbakos>  | 2015-09-23 10:15 | E, I, O, U     |  410 **
+    52 | System <unset>           | 2015-09-18 13:32 | Install        |    1 P<
+    51 | Konstantin ... <kyrubin> | 2015-08-20 09:57 | I, U           |    7 > 
+    50 | System <unset>           | 2015-07-28 11:40 | Erase          |    1   
+    49 | System <unset>           | 2015-07-28 11:34 | Install        |    1   
+    48 | root <root>              | 2015-07-28 10:18 | Install        |    2   
+    47 | root <root>              | 2015-07-28 10:15 | Install        |    1   
+    46 | root <root>              | 2015-07-10 12:16 | Install        |    1   
+    45 | root <root>              | 2015-07-10 12:16 | Install        |    1   
+    44 | root <root>              | 2015-07-10 12:15 | Install        |    1   
+    43 | root <root>              | 2015-07-10 12:13 | Install        |    1   
+    42 | root <root>              | 2015-07-10 11:41 | Install        |   19 P<
+    41 | root <root>              | 2015-07-10 11:06 | Install        |    7 ><
+    40 | root <root>              | 2015-07-09 09:59 | Update         |   31 >E
+    39 | Jason D. Bakos <jbakos>  | 2015-06-23 17:42 | Install        |    1   
+    38 | System <unset>           | 2015-06-12 15:23 | Install        |    1 EE
+    37 | System <unset>           | 2015-06-11 14:23 | Install        |   57 EE
+    36 | System <unset>           | 2015-06-11 14:22 | Install        |    4  <
+    35 | System <unset>           | 2015-06-10 17:34 | I, U           |   88 >E
+    34 | 30607                    | 2015-06-09 05:08 | Update         |    2   
+    33 | Jason D. Bakos <jbakos>  | 2015-06-02 17:17 | Install        |    1   
+    32 | Jason D. Bakos <jbakos>  | 2015-03-13 12:33 | Install        |    1   
+    31 | Jason D. Bakos <jbakos>  | 2015-03-13 12:32 | Install        |    1   
+    30 | root <root>              | 2015-03-11 10:59 | I, O, U        |  522 EE
+    29 | root <root>              | 2015-03-11 10:44 | Install        |    2   
+    28 | root <root>              | 2015-03-11 10:43 | Update         |    2   
+    27 | Jordan ... <bradshja>    | 2015-03-11 09:30 | Install        |    6 P<
+    26 | 30607                    | 2014-10-22 05:53 | I, U           |    8 > 
+    25 | root <root>              | 2014-09-26 11:47 | I, U           |  129   
+    24 | Jason D. Bakos <jbakos>  | 2014-07-23 16:58 | Install        |    7   
+    23 | 40022                    | 2014-07-17 23:31 | Install        |    4 P<
+    22 | Jason D. Bakos <jbakos>  | 2014-07-01 09:30 | I, U           |   12 > 
+    21 | 31236                    | 2014-06-22 17:03 | Install        |    2   
+    20 | Jason D. Bakos <jbakos>  | 2014-06-04 12:10 | Install        |    2   
+    19 | Jason D. Bakos <jbakos>  | 2014-06-04 12:05 | Install        |    1   
+    18 | 31236                    | 2014-04-07 11:47 | Install        |    1 EE
+    17 | 31236                    | 2014-04-07 11:47 | Install        |    1 EE
+    16 | 31236                    | 2014-04-07 11:46 | Install        |    7 EE
+    15 | 31236                    | 2014-04-07 11:46 | Install        |    1 EE
+    14 | 31236                    | 2014-04-07 11:42 | Install        |    1   
+    13 | Jason D. Bakos <jbakos>  | 2014-04-02 14:14 | Install        |    1   
+    12 |  <zhangfan>              | 2014-03-29 21:06 | Install        |    1   
+    11 |  <zhangfan>              | 2014-03-19 14:12 | Install        |    1   
+    10 |  <zhangfan>              | 2014-03-19 13:55 | Install        |   50   
+     9 |  <zhangfan>              | 2014-03-19 13:54 | Install        |   44   
+     8 | 20998                    | 2014-03-18 13:47 | Update         |    7   
+     7 | 501                      | 2014-03-14 12:20 | Install        |    3   
+     6 | Jason D. Bakos <jbakos>  | 2014-03-13 14:39 | Install        |    1   
+     5 | Jason D. Bakos <jbakos>  | 2014-03-13 14:11 | Install        |    1  <
+     4 | 501                      | 2014-03-13 06:08 | I, O, U        |  396 >E
+     3 | 501                      | 2014-03-13 06:02 | Install        |    1   
+     2 | 501                      | 2014-03-13 06:02 | Update         |    5 EE
+     1 | root <root>              | 2013-04-23 09:15 | Install        | 1314   
+history list
