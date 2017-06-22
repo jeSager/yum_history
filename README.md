@@ -19,13 +19,16 @@
 
 * Other files are the result of `yum history info [ transaction id ]`
   - These files were gathered until a non-system transaction was listed
-  - ** NOTE:  TRANSACTION ID 100 HAS A FAILING RETURN CODE **
+  - **NOTE:  TRANSACTION ID 101 HAS A FAILING RETURN CODE**
     + _This was the last system change at 6:31pm on the 12th_
+  - **NOTE:  TRANSACTION ID 93 WAS ABORTED**
+    + _This was the last user change at 3:04pm on May 26_
 
 
+## UNDO FILES
 
-## THE UNDO FILE
-
-* This file is the output from the command `yum_history_undo_101`
+* These files show the output of the cooresponding rollback commands
+  - `yum history undo 101`
+  - `yum history rollback 92`
 
 

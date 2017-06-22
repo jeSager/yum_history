@@ -1,0 +1,1950 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Rollback to transaction 92, from Fri Apr 21 15:12:43 2017
+  Undoing the following transactions: 93, 94, 95, 96, 97, 98, 99, 100, 101, 102
+ ** Updated     GConf2-2.28.0-6.el6.i686                                       @base
+ ** Updated     GConf2-2.28.0-6.el6.x86_64                                     @base/$releasever
+    Update             2.28.0-7.el6.i686                                       installed
+    Update             2.28.0-7.el6.x86_64                                     installed
+ ** Updated     GConf2-gtk-2.28.0-6.el6.x86_64                                 @base/$releasever
+    Update                 2.28.0-7.el6.x86_64                                 installed
+ ** Updated     ImageMagick-6.7.2.7-5.el6_8.x86_64                             @updates
+    Update                  6.7.2.7-6.el6.x86_64                               installed
+ ** Updated     ImageMagick-c++-6.7.2.7-5.el6_8.x86_64                         @updates
+    Update                      6.7.2.7-6.el6.x86_64                           installed
+ ** Updated     NetworkManager-1:0.8.1-107.el6.x86_64                          @base
+    Update                     1:0.8.1-113.el6.x86_64                          installed
+ ** Updated     NetworkManager-glib-1:0.8.1-107.el6.x86_64                     @base
+    Update                          1:0.8.1-113.el6.x86_64                     installed
+ ** Updated     NetworkManager-gnome-1:0.8.1-107.el6.x86_64                    @base
+    Update                           1:0.8.1-113.el6.x86_64                    installed
+ ** Updated     abrt-2.0.8-40.el6.centos.x86_64                                @base
+    Update           2.0.8-43.el6.centos.x86_64                                installed
+ ** Updated     abrt-addon-ccpp-2.0.8-40.el6.centos.x86_64                     @base
+    Update                      2.0.8-43.el6.centos.x86_64                     installed
+ ** Updated     abrt-addon-kerneloops-2.0.8-40.el6.centos.x86_64               @base
+    Update                            2.0.8-43.el6.centos.x86_64               installed
+ ** Updated     abrt-addon-python-2.0.8-40.el6.centos.x86_64                   @base
+    Update                        2.0.8-43.el6.centos.x86_64                   installed
+ ** Updated     abrt-cli-2.0.8-40.el6.centos.x86_64                            @base
+    Update               2.0.8-43.el6.centos.x86_64                            installed
+ ** Updated     abrt-libs-2.0.8-40.el6.centos.x86_64                           @base
+    Update                2.0.8-43.el6.centos.x86_64                           installed
+ ** Updated     abrt-python-2.0.8-40.el6.centos.x86_64                         @base
+    Update                  2.0.8-43.el6.centos.x86_64                         installed
+ ** Updated     abrt-tui-2.0.8-40.el6.centos.x86_64                            @base
+    Update               2.0.8-43.el6.centos.x86_64                            installed
+ ** Updated     acl-2.2.49-6.el6.x86_64                                        @base/$releasever
+    Update          2.2.49-7.el6.x86_64                                        installed
+ ** Updated     alsa-utils-1.1.0-8.el6.x86_64                                  @base
+    Update                 1.1.0-10.el6.x86_64                                 installed
+ ** Updated     anaconda-13.21.254-1.el6.centos.x86_64                         @base
+    Update               13.21.263-1.el6.centos.x86_64                         installed
+Loading mirror speeds from cached hostfile
+ * base: mirror.sjc02.svwh.net
+ * epel: mirror.cs.princeton.edu
+ * epel-debuginfo: mirror.cs.princeton.edu
+ * extras: mirror.beyondhosting.net
+ * updates: mirror.chpc.utah.edu
+ ** Updated     at-3.1.10-48.el6.x86_64                                        ?
+    Update         3.1.10-49.el6.x86_64                                        installed
+ ** Updated     audit-2.4.5-3.el6.x86_64                                       @base
+    Update            2.4.5-6.el6.x86_64                                       installed
+ ** Updated     audit-libs-2.4.5-3.el6.i686                                    @base
+ ** Updated     audit-libs-2.4.5-3.el6.x86_64                                  @base
+    Update                 2.4.5-6.el6.i686                                    installed
+    Update                 2.4.5-6.el6.x86_64                                  installed
+ ** Updated     autocorr-de-1:4.3.7.2-2.el6.noarch                             @base
+    Update                  1:4.3.7.2-2.el6_9.1.noarch                         installed
+ ** Updated     autocorr-en-1:4.3.7.2-2.el6.noarch                             @base
+    Update                  1:4.3.7.2-2.el6_9.1.noarch                         installed
+ ** Updated     autocorr-fr-1:4.3.7.2-2.el6.noarch                             @base
+    Update                  1:4.3.7.2-2.el6_9.1.noarch                         installed
+ ** Updated     autocorr-nl-1:4.3.7.2-2.el6.noarch                             @base
+    Update                  1:4.3.7.2-2.el6_9.1.noarch                         installed
+ ** Updated     autofs-1:5.0.5-123.el6_8.x86_64                                @updates
+    Update             1:5.0.5-132.el6.x86_64                                  installed
+ ** Updated     avahi-autoipd-0.6.25-15.el6_8.1.x86_64                         @updates
+    Update                    0.6.25-17.el6.x86_64                             installed
+ ** Updated     avahi-glib-0.6.25-15.el6_8.1.i686                              @updates
+ ** Updated     avahi-glib-0.6.25-15.el6_8.1.x86_64                            @updates
+    Update                 0.6.25-17.el6.i686                                  installed
+    Update                 0.6.25-17.el6.x86_64                                installed
+ ** Updated     avahi-libs-0.6.25-15.el6_8.1.i686                              @updates
+ ** Updated     avahi-libs-0.6.25-15.el6_8.1.x86_64                            @updates
+    Update                 0.6.25-17.el6.i686                                  installed
+    Update                 0.6.25-17.el6.x86_64                                installed
+ ** Updated     avahi-ui-0.6.25-15.el6_8.1.x86_64                              @updates
+    Update               0.6.25-17.el6.x86_64                                  installed
+ ** Updated     bash-4.1.2-41.el6_8.x86_64                                     @updates
+    Update           4.1.2-48.el6.x86_64                                       installed
+ ** Updated     bind-libs-32:9.8.2-0.47.rc1.el6_8.4.x86_64                     @updates
+    Update                32:9.8.2-0.62.rc1.el6_9.2.x86_64                     installed
+ ** Updated     bind-utils-32:9.8.2-0.47.rc1.el6_8.4.x86_64                    @updates
+    Update                 32:9.8.2-0.62.rc1.el6_9.2.x86_64                    installed
+ ** Updated     binutils-2.20.51.0.2-5.44.el6.x86_64                           @base
+    Update               2.20.51.0.2-5.47.el6_9.1.x86_64                       installed
+ ** Updated     biosdevname-0.7.1-3.el6.x86_64                                 @base
+    Update                  0.7.2-1.el6.x86_64                                 installed
+ ** Updated     blas-3.2.1-4.el6.x86_64                                        @base
+    Update           3.2.1-5.el6.x86_64                                        installed
+ ** Updated     blas-devel-3.2.1-4.el6.x86_64                                  @base
+    Update                 3.2.1-5.el6.x86_64                                  installed
+ ** Updated     ca-certificates-2015.2.6-65.0.1.el6_7.noarch                   @base
+    Update                      2016.2.10-65.4.el6.noarch                      installed
+ ** Updated     centos-release-6-8.el6.centos.12.3.x86_64                      @base
+    Update                     6-9.el6.12.3.x86_64                             installed
+ ** Updated     certmonger-0.77.5-2.el6.x86_64                                 @base
+    Update                 0.77.5-4.el6.x86_64                                 installed
+    Dep-Install compat-readline5-5.2-17.1.el6.x86_64                           @base
+ ** Updated     control-center-1:2.28.1-40.el6.x86_64                          @base
+    Update                     1:2.28.1-41.el6.x86_64                          installed
+ ** Updated     control-center-filesystem-1:2.28.1-40.el6.x86_64               @base
+    Update                                1:2.28.1-41.el6.x86_64               installed
+ ** Updated     coreutils-8.4-43.el6.x86_64                                    @base
+    Update                8.4-46.el6.x86_64                                    installed
+ ** Updated     coreutils-libs-8.4-43.el6.x86_64                               @base
+    Update                     8.4-46.el6.x86_64                               installed
+ ** Updated     cpio-2.10-12.el6_5.x86_64                                      @updates
+    Update           2.10-13.el6.x86_64                                        installed
+ ** Updated     cpp-4.4.7-17.el6.x86_64                                        @base
+    Update          4.4.7-18.el6.x86_64                                        installed
+ ** Updated     createrepo-0.9.9-24.el6.noarch                                 @base
+    Update                 0.9.9-26.el6.noarch                                 installed
+ ** Updated     cups-1:1.4.2-74.el6.x86_64                                     @base
+    Update           1:1.4.2-77.el6.x86_64                                     @base
+ ** Updated     cups-libs-1:1.4.2-74.el6.i686                                  @base
+ ** Updated     cups-libs-1:1.4.2-74.el6.x86_64                                @base
+    Update                1:1.4.2-77.el6.i686                                  @base
+    Update                1:1.4.2-77.el6.x86_64                                @base
+ ** Updated     curl-7.19.7-52.el6.x86_64                                      @base
+    Update           7.19.7-53.el6_9.x86_64                                    installed
+ ** Updated     db4-4.7.25-20.el6_8.1.i686                                     @updates
+ ** Updated     db4-4.7.25-20.el6_8.1.x86_64                                   @updates
+    Update          4.7.25-22.el6.i686                                         installed
+    Update          4.7.25-22.el6.x86_64                                       installed
+ ** Updated     db4-cxx-4.7.25-20.el6_8.1.x86_64                               @updates
+    Update              4.7.25-22.el6.x86_64                                   installed
+ ** Updated     db4-devel-4.7.25-20.el6_8.1.x86_64                             @updates
+    Update                4.7.25-22.el6.x86_64                                 installed
+ ** Updated     db4-utils-4.7.25-20.el6_8.1.x86_64                             @updates
+    Update                4.7.25-22.el6.x86_64                                 installed
+    Dep-Install dcraw-8.96-1.1.el6.x86_64                                      installed
+ ** Updated     device-mapper-1.02.117-7.el6_8.1.x86_64                        @updates
+    Update                    1.02.117-12.el6.x86_64                           installed
+ ** Updated     device-mapper-event-1.02.117-7.el6_8.1.x86_64                  @updates
+    Update                          1.02.117-12.el6.x86_64                     installed
+ ** Updated     device-mapper-event-libs-1.02.117-7.el6_8.1.x86_64             @updates
+    Update                               1.02.117-12.el6.x86_64                installed
+ ** Updated     device-mapper-libs-1.02.117-7.el6_8.1.x86_64                   @updates
+    Update                         1.02.117-12.el6.x86_64                      installed
+ ** Updated     device-mapper-multipath-0.4.9-93.el6.x86_64                    @base
+    Update                              0.4.9-100.el6.x86_64                   installed
+ ** Updated     device-mapper-multipath-libs-0.4.9-93.el6.x86_64               @base
+    Update                                   0.4.9-100.el6.x86_64              installed
+ ** Updated     dhclient-12:4.1.1-51.P1.el6.centos.x86_64                      @base
+    Update               12:4.1.1-53.P1.el6.centos.x86_64                      installed
+ ** Updated     dhcp-common-12:4.1.1-51.P1.el6.centos.x86_64                   @base
+    Update                  12:4.1.1-53.P1.el6.centos.x86_64                   installed
+ ** Updated     dkms-2.3-1.20161202gitde1dca9.el6.noarch                       @epel
+    Update           2.3-4.20170313git974d838.el6.noarch                       installed
+ ** Updated     e2fsprogs-1.41.12-22.el6.x86_64                                ?
+    Update                1.41.12-23.el6.x86_64                                installed
+ ** Updated     e2fsprogs-libs-1.41.12-22.el6.i686                             @base
+ ** Updated     e2fsprogs-libs-1.41.12-22.el6.x86_64                           ?
+    Update                     1.41.12-23.el6.i686                             installed
+    Update                     1.41.12-23.el6.x86_64                           installed
+ ** Updated     efibootmgr-0.5.4-13.el6.x86_64                                 ?
+    Update                 0.5.4-15.el6.x86_64                                 installed
+ ** Updated     evince-dvi-2.28.2-19.el6.x86_64                                @base
+    Update                 2.28.2-20.el6.x86_64                                installed
+ ** Updated     evince-libs-2.28.2-19.el6.x86_64                               @base
+    Update                  2.28.2-20.el6.x86_64                               installed
+ ** Updated     evolution-data-server-2.32.3-23.el6.x86_64                     ?
+    Update                            2.32.3-25.el6.x86_64                     installed
+ ** Updated     fcoe-utils-1.0.28-5.el6.x86_64                                 @base
+    Update                 1.0.28-6.el6.x86_64                                 installed
+ ** Updated     firefox-45.8.0-2.el6.centos.x86_64                             @updates
+    Update              52.1.0-2.el6.centos.x86_64                             installed
+ ** Updated     flash-plugin-25.0.0.127-release.x86_64                         @adobe-linux-x86_64
+    Update                   25.0.0.171-release.x86_64                         installed
+ ** Updated     foomatic-db-4.0-7.20091126.el6.noarch                          @base/$releasever
+    Update                  4.0-8.20091126.el6.noarch                          installed
+ ** Updated     foomatic-db-filesystem-4.0-7.20091126.el6.noarch               @base/$releasever
+    Update                             4.0-8.20091126.el6.noarch               installed
+ ** Updated     foomatic-db-ppds-4.0-7.20091126.el6.noarch                     @base/$releasever
+    Update                       4.0-8.20091126.el6.noarch                     installed
+ ** Updated     gcalctool-5.28.2-3.el6.x86_64                                  @base/$releasever
+    Update                5.28.2-5.el6.x86_64                                  installed
+ ** Updated     gcc-4.4.7-17.el6.x86_64                                        @base
+    Update          4.4.7-18.el6.x86_64                                        installed
+ ** Updated     gcc-c++-4.4.7-17.el6.x86_64                                    @base
+    Update              4.4.7-18.el6.x86_64                                    installed
+ ** Updated     gcc-gfortran-4.4.7-17.el6.x86_64                               @base
+    Update                   4.4.7-18.el6.x86_64                               installed
+ ** Updated     gdb-7.2-90.el6.x86_64                                          @base
+    Update          7.2-92.el6.x86_64                                          installed
+ ** Updated     gdm-1:2.30.4-64.el6.x86_64                                     @base
+    Update          1:2.30.4-67.el6.x86_64                                     installed
+ ** Updated     gdm-libs-1:2.30.4-64.el6.x86_64                                @base
+    Update               1:2.30.4-67.el6.x86_64                                installed
+ ** Updated     gegl-0.1.2-5.el6.x86_64                                        @base
+    Update           0.1.2-6.el6.x86_64                                        installed
+ ** Updated     ghostscript-8.70-21.el6_8.1.x86_64                             @updates
+    Update                  8.70-23.el6_9.2.x86_64                             installed
+ ** Updated     gimp-2:2.6.9-8.el6_6.x86_64                                    @updates
+    Update           2:2.6.9-9.el6.x86_64                                      installed
+ ** Updated     gimp-help-browser-2:2.6.9-8.el6_6.x86_64                       @updates
+    Update                        2:2.6.9-9.el6.x86_64                         installed
+ ** Updated     gimp-libs-2:2.6.9-8.el6_6.x86_64                               @updates
+    Update                2:2.6.9-9.el6.x86_64                                 installed
+ ** Updated     git-1.7.1-4.el6_7.1.x86_64                                     @base
+    Update          1.7.1-8.el6.x86_64                                         installed
+ ** Updated     gitlab-ce-8.17.3-ce.0.el6.x86_64                               @gitlab_gitlab-ce
+ ** Update                9.2.5-ce.0.el6.x86_64                                @?gitlab_gitlab-ce
+ ** Updated     glib-networking-2.28.6.1-2.2.el6.x86_64                        @base
+    Update                      2.28.6.1-2.4.el6.x86_64                        installed
+ ** Updated     glib2-2.28.8-5.el6.i686                                        @base
+ ** Updated     glib2-2.28.8-5.el6.x86_64                                      @base
+    Update            2.28.8-9.el6.i686                                        installed
+    Update            2.28.8-9.el6.x86_64                                      installed
+ ** Updated     glib2-devel-2.28.8-5.el6.x86_64                                @base
+    Update                  2.28.8-9.el6.x86_64                                installed
+ ** Updated     glibc-2.12-1.192.el6.i686                                      @base
+ ** Updated     glibc-2.12-1.192.el6.x86_64                                    @base
+    Update            2.12-1.209.el6_9.1.i686                                  installed
+    Update            2.12-1.209.el6_9.1.x86_64                                installed
+ ** Updated     glibc-common-2.12-1.192.el6.x86_64                             @base
+    Update                   2.12-1.209.el6_9.1.x86_64                         installed
+ ** Updated     glibc-debuginfo-2.12-1.192.el6.x86_64                          @base-debuginfo
+    Update                      2.12-1.209.el6_9.1.x86_64                      installed
+ ** Updated     glibc-debuginfo-common-2.12-1.192.el6.x86_64                   @base-debuginfo
+    Update                             2.12-1.209.el6_9.1.x86_64               installed
+ ** Updated     glibc-devel-2.12-1.192.el6.x86_64                              @base
+    Update                  2.12-1.209.el6_9.1.x86_64                          installed
+ ** Updated     glibc-headers-2.12-1.192.el6.x86_64                            @base
+    Update                    2.12-1.209.el6_9.1.x86_64                        installed
+ ** Updated     gmp-4.3.1-10.el6.x86_64                                        @base
+    Update          4.3.1-12.el6.x86_64                                        installed
+ ** Updated     gnome-packagekit-2.28.3-9.el6.x86_64                           @base
+    Update                       2.28.3-10.el6.x86_64                          installed
+ ** Updated     gnome-session-2.28.0-22.el6.x86_64                             @base
+    Update                    2.28.0-24.el6.x86_64                             installed
+ ** Updated     gnome-session-xsession-2.28.0-22.el6.x86_64                    @base
+    Update                             2.28.0-24.el6.x86_64                    installed
+ ** Updated     gnome-settings-daemon-2.28.2-35.el6_8.2.x86_64                 @updates
+    Update                            2.28.2-39.el6.x86_64                     installed
+ ** Updated     gnome-system-monitor-2.28.0-11.el6.x86_64                      @base/$releasever
+    Update                           2.28.0-13.el6.x86_64                      installed
+ ** Updated     gnutls-2.8.5-19.el6_7.i686                                     @updates
+ ** Updated     gnutls-2.8.5-19.el6_7.x86_64                                   @updates
+    Update             2.12.23-21.el6.i686                                     installed
+    Update             2.12.23-21.el6.x86_64                                   installed
+    Install     go-bindata-0-0.4.git79847ab.el6.x86_64                         @epel
+    Install     golang-1.7.4-1.el6.x86_64                                      @epel
+    Dep-Install golang-bin-1.7.4-1.el6.x86_64                                  @epel
+    Install     golang-github-mattn-go-sqlite3-devel-1.0.0-1.el6.noarch        @epel
+    Install     golang-googlecode-sqlite-devel-0-0.8.hg74691fb6f837.el6.x86_64 @epel
+    Dep-Install golang-src-1.7.4-1.el6.noarch                                  @epel
+ ** Updated     grep-2.20-5.el6_8.x86_64                                       @updates
+    Update           2.20-6.el6.x86_64                                         installed
+ ** Updated     grub-1:0.97-94.el6_7.1.x86_64                                  @base
+    Update           1:0.97-99.el6.x86_64                                      installed
+ ** Updated     gtk2-2.24.23-8.el6.i686                                        @base
+ ** Updated     gtk2-2.24.23-8.el6.x86_64                                      @base
+    Update           2.24.23-9.el6.i686                                        installed
+    Update           2.24.23-9.el6.x86_64                                      installed
+ ** Updated     gtk2-devel-2.24.23-8.el6.x86_64                                @base
+    Update                 2.24.23-9.el6.x86_64                                installed
+ ** Updated     gtk2-immodule-xim-2.24.23-8.el6.x86_64                         @base
+    Update                        2.24.23-9.el6.x86_64                         installed
+ ** Updated     gtkhtml3-3.32.2-2.el6.x86_64                                   @base
+    Update               3.32.2-4.el6.x86_64                                   installed
+ ** Updated     gutenprint-5.2.5-2.el6.x86_64                                  @base/$releasever
+    Update                 5.2.5-3.el6.x86_64                                  installed
+ ** Updated     gutenprint-cups-5.2.5-2.el6.x86_64                             @base/$releasever
+    Update                      5.2.5-3.el6.x86_64                             installed
+ ** Updated     gutenprint-plugin-5.2.5-2.el6.x86_64                           @base/$releasever
+    Update                        5.2.5-3.el6.x86_64                           installed
+ ** Updated     gvfs-1.4.3-26.el6.x86_64                                       @base
+    Update           1.4.3-27.el6.x86_64                                       installed
+ ** Updated     gvfs-afc-1.4.3-26.el6.x86_64                                   @base
+    Update               1.4.3-27.el6.x86_64                                   installed
+ ** Updated     gvfs-archive-1.4.3-26.el6.x86_64                               @base
+    Update                   1.4.3-27.el6.x86_64                               installed
+ ** Updated     gvfs-fuse-1.4.3-26.el6.x86_64                                  @base
+    Update                1.4.3-27.el6.x86_64                                  installed
+ ** Updated     gvfs-gphoto2-1.4.3-26.el6.x86_64                               @base
+    Update                   1.4.3-27.el6.x86_64                               installed
+ ** Updated     gvfs-obexftp-1.4.3-26.el6.x86_64                               @base
+    Update                   1.4.3-27.el6.x86_64                               installed
+ ** Updated     gvfs-smb-1.4.3-26.el6.x86_64                                   @base
+    Update               1.4.3-27.el6.x86_64                                   installed
+ ** Updated     gzip-1.3.12-22.el6.x86_64                                      @base
+    Update           1.3.12-24.el6.x86_64                                      installed
+ ** Updated     hpijs-1:3.14.6-3.el6.x86_64                                    ?
+    Update            1:3.14.6-4.el6.1.x86_64                                  installed
+ ** Updated     hplip-common-3.14.6-3.el6.x86_64                               ?
+    Update                   3.14.6-4.el6.1.x86_64                             installed
+ ** Updated     hplip-libs-3.14.6-3.el6.x86_64                                 ?
+    Update                 3.14.6-4.el6.1.x86_64                               installed
+ ** Updated     httpd-2.2.15-56.el6.centos.3.x86_64                            @updates
+    Update            2.2.15-59.el6.centos.x86_64                              installed
+ ** Updated     httpd-tools-2.2.15-56.el6.centos.3.x86_64                      @updates
+    Update                  2.2.15-59.el6.centos.x86_64                        installed
+ ** Updated     hwdata-0.233-16.1.el6.noarch                                   @base
+    Update             0.233-18.1.el6.noarch                                   installed
+ ** Updated     initscripts-9.03.53-1.el6.centos.2.x86_64                      @updates
+    Update                  9.03.58-1.el6.centos.x86_64                        @base
+ ** Updated     iotop-0.3.2-7.el6.noarch                                       @base
+    Update            0.3.2-9.el6.noarch                                       installed
+ ** Updated     ipa-client-3.0.0-50.el6.centos.3.x86_64                        @updates
+    Update                 3.0.0-51.el6.centos.x86_64                          installed
+ ** Updated     ipa-python-3.0.0-50.el6.centos.3.x86_64                        @updates
+    Update                 3.0.0-51.el6.centos.x86_64                          installed
+ ** Updated     iputils-20071127-21.el6.x86_64                                 @base
+    Update              20071127-24.el6.x86_64                                 installed
+ ** Updated     iscsi-initiator-utils-6.2.0.873-22.el6_8.x86_64                @updates
+    Update                            6.2.0.873-26.el6.x86_64                  installed
+ ** Updated     jasper-1.900.1-16.el6_6.3.x86_64                               @updates
+    Update             1.900.1-21.el6_9.x86_64                                 installed
+ ** Updated     jasper-libs-1.900.1-16.el6_6.3.i686                            @base
+ ** Updated     jasper-libs-1.900.1-16.el6_6.3.x86_64                          @updates
+    Update                  1.900.1-21.el6_9.i686                              installed
+    Update                  1.900.1-21.el6_9.x86_64                            installed
+ ** Updated     java-1.7.0-openjdk-1:1.7.0.131-2.6.9.0.el6_8.x86_64            @updates
+    Update                         1:1.7.0.141-2.6.10.1.el6_9.x86_64           installed
+ ** Updated     json-c-0.11-12.el6.x86_64                                      ?
+    Update             0.11-13.el6.x86_64                                      installed
+ ** Updated     kdebase-workspace-4.3.4-35.el6.x86_64                          @base
+    Update                        4.3.4-37.el6.x86_64                          installed
+ ** Updated     kdebase-workspace-libs-4.3.4-35.el6.x86_64                     @base
+    Update                             4.3.4-37.el6.x86_64                     installed
+ ** Updated     kdebase-workspace-wallpapers-4.3.4-35.el6.noarch               @base
+    Update                                   4.3.4-37.el6.noarch               installed
+ ** Updated     kdm-4.3.4-35.el6.x86_64                                        @base
+    Update          4.3.4-37.el6.x86_64                                        installed
+ ** Erase       kernel-2.6.32-504.23.4.el6.x86_64                              @updates
+ ** Erase       kernel-2.6.32-573.7.1.el6.x86_64                               ?
+    Install     kernel-2.6.32-696.1.1.el6.x86_64                               installed
+ ** Erase       kernel-devel-2.6.32-504.23.4.el6.x86_64                        @updates
+ ** Erase       kernel-devel-2.6.32-573.7.1.el6.x86_64                         ?
+    Install     kernel-devel-2.6.32-696.1.1.el6.x86_64                         installed
+ ** Updated     kernel-firmware-2.6.32-642.15.1.el6.noarch                     @updates
+    Update                      2.6.32-696.1.1.el6.noarch                      @updates
+ ** Updated     kernel-headers-2.6.32-642.15.1.el6.x86_64                      @updates
+    Update                     2.6.32-696.1.1.el6.x86_64                       @updates
+ ** Updated     kexec-tools-2.0.0-300.el6_8.2.x86_64                           @updates
+    Update                  2.0.0-307.el6.x86_64                               installed
+ ** Updated     kpartx-0.4.9-93.el6.x86_64                                     @base
+    Update             0.4.9-100.el6.x86_64                                    installed
+ ** Updated     krb5-devel-1.10.3-57.el6.x86_64                                @base
+    Update                 1.10.3-65.el6.x86_64                                installed
+ ** Updated     krb5-libs-1.10.3-57.el6.i686                                   @base
+ ** Updated     krb5-libs-1.10.3-57.el6.x86_64                                 @base
+    Update                1.10.3-65.el6.i686                                   installed
+    Update                1.10.3-65.el6.x86_64                                 installed
+ ** Updated     krb5-workstation-1.10.3-57.el6.x86_64                          @base
+    Update                       1.10.3-65.el6.x86_64                          installed
+ ** Updated     ksysguardd-4.3.4-35.el6.x86_64                                 @base
+    Update                 4.3.4-37.el6.x86_64                                 installed
+ ** Updated     lapack-3.2.1-4.el6.x86_64                                      @base
+    Update             3.2.1-5.el6.x86_64                                      installed
+ ** Updated     lapack-devel-3.2.1-4.el6.x86_64                                @base
+    Update                   3.2.1-5.el6.x86_64                                installed
+ ** Updated     libX11-1.6.3-2.el6.i686                                        @base
+ ** Updated     libX11-1.6.3-2.el6.x86_64                                      @base
+    Update             1.6.4-3.el6.i686                                        installed
+    Update             1.6.4-3.el6.x86_64                                      installed
+ ** Updated     libX11-common-1.6.3-2.el6.noarch                               @base
+    Update                    1.6.4-3.el6.noarch                               installed
+ ** Updated     libX11-devel-1.6.3-2.el6.x86_64                                @base
+    Update                   1.6.4-3.el6.x86_64                                installed
+ ** Updated     libXfixes-5.0.1-2.1.el6.i686                                   @base
+ ** Updated     libXfixes-5.0.1-2.1.el6.x86_64                                 @base
+    Update                5.0.3-1.el6.i686                                     installed
+    Update                5.0.3-1.el6.x86_64                                   installed
+ ** Updated     libXfixes-devel-5.0.1-2.1.el6.x86_64                           @base
+    Update                      5.0.3-1.el6.x86_64                             installed
+ ** Updated     libXi-1.7.4-1.el6.i686                                         @base
+ ** Updated     libXi-1.7.4-1.el6.x86_64                                       @base
+    Update            1.7.8-1.el6.i686                                         installed
+    Update            1.7.8-1.el6.x86_64                                       installed
+ ** Updated     libXi-devel-1.7.4-1.el6.x86_64                                 @base
+    Update                  1.7.8-1.el6.x86_64                                 installed
+ ** Updated     libXrandr-1.4.2-1.el6.i686                                     @base
+ ** Updated     libXrandr-1.4.2-1.el6.x86_64                                   @base
+    Update                1.5.1-1.el6.i686                                     installed
+    Update                1.5.1-1.el6.x86_64                                   installed
+ ** Updated     libXrandr-devel-1.4.2-1.el6.x86_64                             @base
+    Update                      1.5.1-1.el6.x86_64                             installed
+ ** Updated     libXrender-0.9.8-2.1.el6_8.1.i686                              @updates
+ ** Updated     libXrender-0.9.8-2.1.el6_8.1.x86_64                            @updates
+    Update                 0.9.10-1.el6.i686                                   installed
+    Update                 0.9.10-1.el6.x86_64                                 installed
+ ** Updated     libXrender-devel-0.9.8-2.1.el6_8.1.x86_64                      @updates
+    Update                       0.9.10-1.el6.x86_64                           installed
+ ** Updated     libXtst-1.2.2-2.1.el6.i686                                     @base
+ ** Updated     libXtst-1.2.2-2.1.el6.x86_64                                   @base
+    Update              1.2.3-1.el6.i686                                       installed
+    Update              1.2.3-1.el6.x86_64                                     installed
+ ** Updated     libXv-1.0.9-2.1.el6.i686                                       @base
+ ** Updated     libXv-1.0.9-2.1.el6.x86_64                                     @base
+    Update            1.0.11-1.el6.i686                                        installed
+    Update            1.0.11-1.el6.x86_64                                      installed
+ ** Updated     libXvMC-1.0.8-2.1.el6.x86_64                                   @base
+    Update              1.0.10-1.el6.x86_64                                    installed
+ ** Updated     libacl-2.2.49-6.el6.i686                                       @base
+ ** Updated     libacl-2.2.49-6.el6.x86_64                                     @base/$releasever
+    Update             2.2.49-7.el6.i686                                       installed
+    Update             2.2.49-7.el6.x86_64                                     installed
+ ** Updated     libblkid-2.17.2-12.24.el6_8.3.x86_64                           @updates
+    Update               2.17.2-12.28.el6.x86_64                               installed
+ ** Updated     libcom_err-1.41.12-22.el6.i686                                 @base
+ ** Updated     libcom_err-1.41.12-22.el6.x86_64                               ?
+    Update                 1.41.12-23.el6.i686                                 installed
+    Update                 1.41.12-23.el6.x86_64                               installed
+ ** Updated     libcom_err-devel-1.41.12-22.el6.x86_64                         ?
+    Update                       1.41.12-23.el6.x86_64                         installed
+ ** Updated     libcurl-7.19.7-52.el6.x86_64                                   @base
+    Update              7.19.7-53.el6_9.x86_64                                 installed
+ ** Updated     libgcc-4.4.7-17.el6.i686                                       @base
+ ** Updated     libgcc-4.4.7-17.el6.x86_64                                     @base
+    Update             4.4.7-18.el6.i686                                       installed
+    Update             4.4.7-18.el6.x86_64                                     installed
+ ** Updated     libgcj-4.4.7-17.el6.x86_64                                     @base
+    Update             4.4.7-18.el6.x86_64                                     installed
+ ** Updated     libgfortran-4.4.7-17.el6.x86_64                                @base
+    Update                  4.4.7-18.el6.x86_64                                installed
+ ** Updated     libgomp-4.4.7-17.el6.x86_64                                    @base
+    Update              4.4.7-18.el6.x86_64                                    installed
+ ** Updated     libgphoto2-2.4.7-4.el6.x86_64                                  @base/$releasever
+    Update                 2.4.7-5.el6.x86_64                                  installed
+ ** Updated     libipa_hbac-1.13.3-22.el6_8.6.x86_64                           @updates
+    Update                  1.13.3-56.el6.x86_64                               installed
+ ** Updated     libitm-5.2.1-2.1.1.el6.x86_64                                  @base
+    Update             6.2.1-1.1.1.el6.x86_64                                  installed
+    Dep-Install libkadm5-1.10.3-65.el6.x86_64                                  installed
+ ** Updated     libpurple-2.7.9-27.el6.x86_64                                  @updates
+    Update                2.7.9-28.el6.x86_64                                  installed
+ ** Updated     libreoffice-base-1:4.3.7.2-2.el6.x86_64                        @base
+    Update                       1:4.3.7.2-2.el6_9.1.x86_64                    installed
+ ** Updated     libreoffice-calc-1:4.3.7.2-2.el6.x86_64                        @base
+    Update                       1:4.3.7.2-2.el6_9.1.x86_64                    installed
+ ** Updated     libreoffice-core-1:4.3.7.2-2.el6.x86_64                        @base
+    Update                       1:4.3.7.2-2.el6_9.1.x86_64                    installed
+ ** Updated     libreoffice-draw-1:4.3.7.2-2.el6.x86_64                        @base
+    Update                       1:4.3.7.2-2.el6_9.1.x86_64                    installed
+ ** Updated     libreoffice-emailmerge-1:4.3.7.2-2.el6.x86_64                  @base
+    Update                             1:4.3.7.2-2.el6_9.1.x86_64              installed
+ ** Updated     libreoffice-graphicfilter-1:4.3.7.2-2.el6.x86_64               @base
+    Update                                1:4.3.7.2-2.el6_9.1.x86_64           installed
+ ** Updated     libreoffice-headless-1:4.3.7.2-2.el6.x86_64                    @base
+    Update                           1:4.3.7.2-2.el6_9.1.x86_64                installed
+ ** Updated     libreoffice-impress-1:4.3.7.2-2.el6.x86_64                     @base
+    Update                          1:4.3.7.2-2.el6_9.1.x86_64                 installed
+ ** Updated     libreoffice-langpack-de-1:4.3.7.2-2.el6.x86_64                 @base
+    Update                              1:4.3.7.2-2.el6_9.1.x86_64             installed
+ ** Updated     libreoffice-langpack-en-1:4.3.7.2-2.el6.x86_64                 @base
+    Update                              1:4.3.7.2-2.el6_9.1.x86_64             installed
+ ** Updated     libreoffice-langpack-fr-1:4.3.7.2-2.el6.x86_64                 @base
+    Update                              1:4.3.7.2-2.el6_9.1.x86_64             installed
+ ** Updated     libreoffice-langpack-nl-1:4.3.7.2-2.el6.x86_64                 @base
+    Update                              1:4.3.7.2-2.el6_9.1.x86_64             installed
+ ** Updated     libreoffice-math-1:4.3.7.2-2.el6.x86_64                        @base
+    Update                       1:4.3.7.2-2.el6_9.1.x86_64                    installed
+ ** Updated     libreoffice-ogltrans-1:4.3.7.2-2.el6.x86_64                    @base
+    Update                           1:4.3.7.2-2.el6_9.1.x86_64                installed
+ ** Updated     libreoffice-opensymbol-fonts-1:4.3.7.2-2.el6.noarch            @base
+    Update                                   1:4.3.7.2-2.el6_9.1.noarch        installed
+ ** Updated     libreoffice-pdfimport-1:4.3.7.2-2.el6.x86_64                   @base
+    Update                            1:4.3.7.2-2.el6_9.1.x86_64               installed
+ ** Updated     libreoffice-pyuno-1:4.3.7.2-2.el6.x86_64                       @base
+    Update                        1:4.3.7.2-2.el6_9.1.x86_64                   installed
+ ** Updated     libreoffice-ure-1:4.3.7.2-2.el6.x86_64                         @base
+    Update                      1:4.3.7.2-2.el6_9.1.x86_64                     installed
+ ** Updated     libreoffice-wiki-publisher-1:4.3.7.2-2.el6.x86_64              @base
+    Update                                 1:4.3.7.2-2.el6_9.1.x86_64          installed
+ ** Updated     libreoffice-writer-1:4.3.7.2-2.el6.x86_64                      @base
+    Update                         1:4.3.7.2-2.el6_9.1.x86_64                  installed
+ ** Updated     libreoffice-xsltfilter-1:4.3.7.2-2.el6.x86_64                  @base
+    Update                             1:4.3.7.2-2.el6_9.1.x86_64              installed
+ ** Updated     libreport-2.0.9-32.el6.centos.x86_64                           @base
+    Update                2.0.9-33.el6.centos.x86_64                           installed
+ ** Updated     libreport-cli-2.0.9-32.el6.centos.x86_64                       @base
+    Update                    2.0.9-33.el6.centos.x86_64                       installed
+ ** Updated     libreport-compat-2.0.9-32.el6.centos.x86_64                    @base
+    Update                       2.0.9-33.el6.centos.x86_64                    installed
+ ** Updated     libreport-filesystem-2.0.9-32.el6.centos.x86_64                @base
+    Update                           2.0.9-33.el6.centos.x86_64                installed
+ ** Updated     libreport-gtk-2.0.9-32.el6.centos.x86_64                       @base
+    Update                    2.0.9-33.el6.centos.x86_64                       installed
+ ** Updated     libreport-newt-2.0.9-32.el6.centos.x86_64                      @base
+    Update                     2.0.9-33.el6.centos.x86_64                      installed
+ ** Updated     libreport-plugin-kerneloops-2.0.9-32.el6.centos.x86_64         @base
+    Update                                  2.0.9-33.el6.centos.x86_64         installed
+ ** Updated     libreport-plugin-logger-2.0.9-32.el6.centos.x86_64             @base
+    Update                              2.0.9-33.el6.centos.x86_64             installed
+ ** Updated     libreport-plugin-mailx-2.0.9-32.el6.centos.x86_64              @base
+    Update                             2.0.9-33.el6.centos.x86_64              installed
+ ** Updated     libreport-plugin-reportuploader-2.0.9-32.el6.centos.x86_64     @base
+    Update                                      2.0.9-33.el6.centos.x86_64     installed
+ ** Updated     libreport-plugin-rhtsupport-2.0.9-32.el6.centos.x86_64         @base
+    Update                                  2.0.9-33.el6.centos.x86_64         installed
+ ** Updated     libreport-plugin-ureport-2.0.9-32.el6.centos.x86_64            @base
+    Update                               2.0.9-33.el6.centos.x86_64            installed
+ ** Updated     libreport-python-2.0.9-32.el6.centos.x86_64                    @base
+    Update                       2.0.9-33.el6.centos.x86_64                    installed
+ ** Updated     libreswan-3.15-5.3.el6.x86_64                                  @base
+    Update                3.15-7.3.el6.x86_64                                  installed
+ ** Updated     libsane-hpaio-3.14.6-3.el6.x86_64                              ?
+    Update                    3.14.6-4.el6.1.x86_64                            installed
+ ** Updated     libsmbclient-3.6.23-36.el6_8.x86_64                            @updates
+    Update                   3.6.23-43.el6_9.x86_64                            installed
+ ** Updated     libss-1.41.12-22.el6.x86_64                                    ?
+    Update            1.41.12-23.el6.x86_64                                    installed
+ ** Updated     libsss_idmap-1.13.3-22.el6_8.6.x86_64                          @updates
+    Update                   1.13.3-56.el6.x86_64                              installed
+ ** Updated     libstdc++-4.4.7-17.el6.i686                                    @base
+ ** Updated     libstdc++-4.4.7-17.el6.x86_64                                  @base
+    Update                4.4.7-18.el6.i686                                    installed
+    Update                4.4.7-18.el6.x86_64                                  installed
+ ** Updated     libstdc++-devel-4.4.7-17.el6.x86_64                            @base
+    Update                      4.4.7-18.el6.x86_64                            installed
+ ** Updated     libtirpc-0.2.1-11.el6_8.x86_64                                 @updates
+    Update               0.2.1-13.el6_9.x86_64                                 installed
+ ** Updated     libuuid-2.17.2-12.24.el6_8.3.i686                              @updates
+ ** Updated     libuuid-2.17.2-12.24.el6_8.3.x86_64                            @updates
+    Update              2.17.2-12.28.el6.i686                                  installed
+    Update              2.17.2-12.28.el6.x86_64                                installed
+ ** Updated     libwsman1-2.2.3.9-2193.9883.el6.x86_64                         @dell-omsa-indep
+    Update                2.2.3.9-2372.10488.el6.x86_64                        installed
+ ** Updated     libxcb-1.11-2.el6.i686                                         @base
+ ** Updated     libxcb-1.11-2.el6.x86_64                                       @base
+    Update             1.12-4.el6.i686                                         installed
+    Update             1.12-4.el6.x86_64                                       installed
+ ** Updated     libxcb-devel-1.11-2.el6.x86_64                                 @base
+    Update                   1.12-4.el6.x86_64                                 installed
+ ** Updated     logrotate-3.7.8-26.el6_7.x86_64                                @updates
+    Update                3.7.8-28.el6.x86_64                                  installed
+ ** Updated     lvm2-2.02.143-7.el6_8.1.x86_64                                 @updates
+    Update           2.02.143-12.el6.x86_64                                    installed
+ ** Updated     lvm2-libs-2.02.143-7.el6_8.1.x86_64                            @updates
+    Update                2.02.143-12.el6.x86_64                               installed
+ ** Updated     man-1.6f-32.el6.x86_64                                         @base/$releasever
+    Update          1.6f-39.el6.x86_64                                         installed
+ ** Updated     man-pages-overrides-6.8.2-1.el6.noarch                         @base
+    Update                          6.9.1-1.el6.noarch                         installed
+ ** Updated     mdadm-3.3.4-1.el6_8.5.x86_64                                   @updates
+    Update            3.3.4-8.el6.x86_64                                       installed
+    Install     memtester-4.2.1-1.el6.x86_64                                   @epel
+ ** Updated     microcode_ctl-1:1.17-21.el6.x86_64                             @base
+    Update                    1:1.17-25.el6.x86_64                             installed
+ ** Updated     minicom-2.3-6.1.el6.x86_64                                     @base
+    Update              2.3-8.el6.x86_64                                       installed
+ ** Updated     module-init-tools-3.9-25.el6.x86_64                            ?
+    Update                        3.9-26.el6.x86_64                            installed
+ ** Updated     nautilus-2.28.4-25.el6.x86_64                                  @base
+    Update               2.28.4-26.el6.x86_64                                  installed
+ ** Updated     nautilus-extensions-2.28.4-25.el6.x86_64                       @base
+    Update                          2.28.4-26.el6.x86_64                       installed
+ ** Updated     net-snmp-1:5.5-57.el6_8.1.x86_64                               @updates
+    Update               1:5.5-60.el6.x86_64                                   installed
+ ** Updated     net-snmp-libs-1:5.5-57.el6_8.1.x86_64                          @updates
+    Update                    1:5.5-60.el6.x86_64                              installed
+ ** Updated     net-tools-1.60-110.el6_2.x86_64                                @base/$releasever
+    Update                1.60-114.el6.x86_64                                  installed
+ ** Updated     newt-0.52.11-3.el6.x86_64                                      @base/$releasever
+    Update           0.52.11-4.el6.x86_64                                      installed
+ ** Updated     newt-python-0.52.11-3.el6.x86_64                               @base/$releasever
+    Update                  0.52.11-4.el6.x86_64                               installed
+ ** Updated     nfs-utils-1:1.2.3-70.el6_8.2.x86_64                            @updates
+    Update                1:1.2.3-75.el6.x86_64                                installed
+ ** Updated     nfs-utils-lib-1.1.5-11.el6.x86_64                              ?
+    Update                    1.1.5-13.el6.x86_64                              installed
+ ** Updated     nmap-2:5.51-4.el6.x86_64                                       @base
+    Update           2:5.51-6.el6.x86_64                                       installed
+ ** Updated     nscd-2.12-1.192.el6.x86_64                                     @base
+    Update           2.12-1.209.el6_9.1.x86_64                                 installed
+ ** Updated     nspr-4.11.0-1.el6.i686                                         @base
+ ** Updated     nspr-4.11.0-1.el6.x86_64                                       @base
+    Update           4.13.1-1.el6.i686                                         installed
+    Update           4.13.1-1.el6.x86_64                                       installed
+ ** Updated     nss-3.21.3-2.el6_8.i686                                        @updates
+ ** Updated     nss-3.21.3-2.el6_8.x86_64                                      @updates
+    Update          3.28.4-1.el6_9.i686                                        @updates
+    Update          3.28.4-1.el6_9.x86_64                                      @updates
+ ** Updated     nss-sysinit-3.21.3-2.el6_8.x86_64                              @updates
+    Update                  3.28.4-1.el6_9.x86_64                              @updates
+ ** Updated     nss-tools-3.21.3-2.el6_8.x86_64                                @updates
+    Update                3.28.4-1.el6_9.x86_64                                @updates
+ ** Updated     nss-util-3.21.3-1.el6_8.i686                                   @updates
+ ** Updated     nss-util-3.21.3-1.el6_8.x86_64                                 @updates
+    Update               3.28.4-1.el6_9.i686                                   installed
+    Update               3.28.4-1.el6_9.x86_64                                 installed
+ ** Updated     openchange-1.0-7.el6_7.x86_64                                  @base
+    Update                 1.0-7.0.1.el6.centos.x86_64                         installed
+ ** Updated     openjpeg-libs-1.3-11.el6.x86_64                                @?base
+    Update                    1.3-16.el6_8.x86_64                              installed
+ ** Updated     openldap-2.4.40-12.el6.i686                                    @base
+ ** Updated     openldap-2.4.40-12.el6.x86_64                                  @base
+    Update               2.4.40-16.el6.i686                                    installed
+    Update               2.4.40-16.el6.x86_64                                  installed
+ ** Updated     openldap-clients-2.4.40-12.el6.x86_64                          @base
+    Update                       2.4.40-16.el6.x86_64                          installed
+ ** Updated     openmotif-2.3.3-8.el6.x86_64                                   @base
+    Update                2.3.3-9.el6.x86_64                                   installed
+ ** Updated     openssh-5.3p1-118.1.el6_8.x86_64                               @updates
+    Update              5.3p1-122.el6.x86_64                                   installed
+ ** Updated     openssh-askpass-5.3p1-118.1.el6_8.x86_64                       @updates
+    Update                      5.3p1-122.el6.x86_64                           installed
+ ** Updated     openssh-clients-5.3p1-118.1.el6_8.x86_64                       @updates
+    Update                      5.3p1-122.el6.x86_64                           installed
+ ** Updated     openssh-server-5.3p1-118.1.el6_8.x86_64                        @updates
+    Update                     5.3p1-122.el6.x86_64                            installed
+ ** Updated     openssl-1.0.1e-48.el6_8.4.i686                                 @updates
+ ** Updated     openssl-1.0.1e-48.el6_8.4.x86_64                               @updates
+    Update              1.0.1e-57.el6.i686                                     installed
+    Update              1.0.1e-57.el6.x86_64                                   installed
+ ** Updated     openssl-devel-1.0.1e-48.el6_8.4.x86_64                         @updates
+    Update                    1.0.1e-57.el6.x86_64                             installed
+ ** Updated     openwsman-client-2.2.3.9-2193.9883.el6.x86_64                  @dell-omsa-indep
+    Update                       2.2.3.9-2372.10488.el6.x86_64                 installed
+ ** Updated     openwsman-server-2.2.3.9-2193.9883.el6.x86_64                  @dell-omsa-indep
+    Update                       2.2.3.9-2372.10488.el6.x86_64                 installed
+ ** Updated     oxygen-cursor-themes-4.3.4-35.el6.noarch                       @base
+    Update                           4.3.4-37.el6.noarch                       installed
+ ** Updated     pam-1.1.1-22.el6.i686                                          @base
+ ** Updated     pam-1.1.1-22.el6.x86_64                                        @base
+    Update          1.1.1-24.el6.i686                                          installed
+    Update          1.1.1-24.el6.x86_64                                        installed
+ ** Updated     pam-devel-1.1.1-22.el6.x86_64                                  @base
+    Update                1.1.1-24.el6.x86_64                                  installed
+ ** Updated     parallel-20170222-1.1.noarch                                   @home_tange
+    Update               20170522-2.2.noarch                                   installed
+ ** Updated     pcsc-lite-1.5.2-15.el6.x86_64                                  ?
+    Update                1.5.2-16.el6.x86_64                                  installed
+ ** Updated     pcsc-lite-libs-1.5.2-15.el6.x86_64                             ?
+    Update                     1.5.2-16.el6.x86_64                             installed
+ ** Updated     perl-4:5.10.1-141.el6_7.1.x86_64                               @updates
+    Update           4:5.10.1-144.el6.x86_64                                   installed
+ ** Updated     perl-CGI-3.51-141.el6_7.1.x86_64                               @updates
+    Update               3.51-144.el6.x86_64                                   installed
+ ** Updated     perl-Compress-Raw-Zlib-1:2.021-141.el6_7.1.x86_64              @updates
+    Update                             1:2.021-144.el6.x86_64                  installed
+ ** Updated     perl-Compress-Zlib-2.021-141.el6_7.1.x86_64                    @updates
+    Update                         2.021-144.el6.x86_64                        installed
+ ** Updated     perl-ExtUtils-MakeMaker-6.55-141.el6_7.1.x86_64                @updates
+    Update                              6.55-144.el6.x86_64                    installed
+ ** Updated     perl-ExtUtils-ParseXS-1:2.2003.0-141.el6_7.1.x86_64            @updates
+    Update                            1:2.2003.0-144.el6.x86_64                installed
+ ** Updated     perl-Git-1.7.1-4.el6_7.1.noarch                                @base
+    Update               1.7.1-8.el6.noarch                                    installed
+ ** Updated     perl-IO-Compress-Base-2.021-141.el6_7.1.x86_64                 @updates
+    Update                            2.021-144.el6.x86_64                     installed
+ ** Updated     perl-IO-Compress-Zlib-2.021-141.el6_7.1.x86_64                 @updates
+    Update                            2.021-144.el6.x86_64                     installed
+ ** Updated     perl-Module-Pluggable-1:3.90-141.el6_7.1.x86_64                @updates
+    Update                            1:3.90-144.el6.x86_64                    installed
+ ** Updated     perl-Pod-Escapes-1:1.04-141.el6_7.1.x86_64                     @updates
+    Update                       1:1.04-144.el6.x86_64                         installed
+ ** Updated     perl-Pod-Simple-1:3.13-141.el6_7.1.x86_64                      @updates
+    Update                      1:3.13-144.el6.x86_64                          installed
+ ** Updated     perl-Test-Harness-3.17-141.el6_7.1.x86_64                      @updates
+    Update                        3.17-144.el6.x86_64                          installed
+ ** Updated     perl-Test-Simple-0.92-141.el6_7.1.x86_64                       @updates
+    Update                       0.92-144.el6.x86_64                           installed
+ ** Updated     perl-devel-4:5.10.1-141.el6_7.1.x86_64                         @updates
+    Update                 4:5.10.1-144.el6.x86_64                             installed
+ ** Updated     perl-libs-4:5.10.1-141.el6_7.1.x86_64                          @updates
+    Update                4:5.10.1-144.el6.x86_64                              installed
+ ** Updated     perl-libwww-perl-5.833-3.el6.noarch                            @base
+    Update                       5.833-5.el6.noarch                            installed
+ ** Updated     perl-version-3:0.77-141.el6_7.1.x86_64                         @updates
+    Update                   3:0.77-144.el6.x86_64                             installed
+ ** Updated     php-5.3.3-48.el6_8.x86_64                                      @updates
+    Update          5.3.3-49.el6.x86_64                                        installed
+ ** Updated     php-cli-5.3.3-48.el6_8.x86_64                                  @updates
+    Update              5.3.3-49.el6.x86_64                                    installed
+ ** Updated     php-common-5.3.3-48.el6_8.x86_64                               @updates
+    Update                 5.3.3-49.el6.x86_64                                 installed
+ ** Updated     pidgin-2.7.9-27.el6.x86_64                                     @updates
+    Update             2.7.9-28.el6.x86_64                                     installed
+ ** Updated     plymouth-0.8.3-27.el6.centos.1.x86_64                          @updates
+    Update               0.8.3-29.el6.centos.x86_64                            installed
+ ** Updated     plymouth-core-libs-0.8.3-27.el6.centos.1.x86_64                @updates
+    Update                         0.8.3-29.el6.centos.x86_64                  installed
+ ** Updated     plymouth-gdm-hooks-0.8.3-27.el6.centos.1.x86_64                @base
+    Update                         0.8.3-29.el6.centos.x86_64                  installed
+ ** Updated     plymouth-graphics-libs-0.8.3-27.el6.centos.1.x86_64            @updates
+    Update                             0.8.3-29.el6.centos.x86_64              installed
+ ** Updated     plymouth-plugin-label-0.8.3-27.el6.centos.1.x86_64             @updates
+    Update                            0.8.3-29.el6.centos.x86_64               installed
+ ** Updated     plymouth-plugin-two-step-0.8.3-27.el6.centos.1.x86_64          @updates
+    Update                               0.8.3-29.el6.centos.x86_64            installed
+ ** Updated     plymouth-scripts-0.8.3-27.el6.centos.1.x86_64                  @updates
+    Update                       0.8.3-29.el6.centos.x86_64                    installed
+ ** Updated     plymouth-system-theme-0.8.3-27.el6.centos.1.noarch             @updates
+    Update                            0.8.3-29.el6.centos.noarch               installed
+ ** Updated     plymouth-theme-rings-0.8.3-27.el6.centos.1.noarch              @updates
+    Update                           0.8.3-29.el6.centos.noarch                installed
+ ** Updated     plymouth-utils-0.8.3-27.el6.centos.1.x86_64                    @updates
+    Update                     0.8.3-29.el6.centos.x86_64                      installed
+ ** Updated     poppler-0.12.4-10.el6.x86_64                                   @base
+    Update              0.12.4-11.el6.x86_64                                   installed
+ ** Updated     poppler-glib-0.12.4-10.el6.x86_64                              @base
+    Update                   0.12.4-11.el6.x86_64                              installed
+ ** Updated     poppler-qt4-0.12.4-10.el6.x86_64                               @base
+    Update                  0.12.4-11.el6.x86_64                               installed
+ ** Updated     poppler-utils-0.12.4-10.el6.x86_64                             @base
+    Update                    0.12.4-11.el6.x86_64                             installed
+ ** Updated     postfix-2:2.6.6-6.el6_7.1.x86_64                               @updates
+    Update              2:2.6.6-8.el6.x86_64                                   installed
+ ** Updated     postgresql-libs-8.4.20-6.el6.x86_64                            @base
+    Update                      8.4.20-7.el6.x86_64                            installed
+ ** Updated     procps-3.2.8-36.el6.x86_64                                     @base
+    Update             3.2.8-45.el6.x86_64                                     installed
+ ** Updated     psacct-6.3.2-63.el6_3.3.x86_64                                 @base/$releasever
+    Update             6.3.2-70.el6.x86_64                                     installed
+ ** Updated     psmisc-22.6-19.el6_5.x86_64                                    @updates
+    Update             22.6-24.el6.x86_64                                      installed
+ ** Updated     pulseaudio-0.9.21-24.el6.x86_64                                @base
+    Update                 0.9.21-26.el6.x86_64                                installed
+ ** Updated     pulseaudio-gdm-hooks-0.9.21-24.el6.x86_64                      @base
+    Update                           0.9.21-26.el6.x86_64                      installed
+ ** Updated     pulseaudio-libs-0.9.21-24.el6.i686                             @base
+ ** Updated     pulseaudio-libs-0.9.21-24.el6.x86_64                           @base
+    Update                      0.9.21-26.el6.i686                             installed
+    Update                      0.9.21-26.el6.x86_64                           installed
+ ** Updated     pulseaudio-libs-glib2-0.9.21-24.el6.x86_64                     @base
+    Update                            0.9.21-26.el6.x86_64                     installed
+ ** Updated     pulseaudio-module-bluetooth-0.9.21-24.el6.x86_64               @base
+    Update                                  0.9.21-26.el6.x86_64               installed
+ ** Updated     pulseaudio-module-gconf-0.9.21-24.el6.x86_64                   @base
+    Update                              0.9.21-26.el6.x86_64                   installed
+ ** Updated     pulseaudio-module-x11-0.9.21-24.el6.x86_64                     @base
+    Update                            0.9.21-26.el6.x86_64                     installed
+ ** Updated     pulseaudio-utils-0.9.21-24.el6.x86_64                          @base
+    Update                       0.9.21-26.el6.x86_64                          installed
+ ** Updated     pykickstart-1.74.20-1.el6.noarch                               ?
+    Update                  1.74.22-1.el6.noarch                               installed
+ ** Updated     python-dateutil-1.4.1-6.el6.noarch                             @base
+    Update                      1.4.1-7.el6.noarch                             installed
+ ** Updated     python-dmidecode-3.10.13-3.el6_4.x86_64                        @base
+    Update                       3.10.15-1.el6.x86_64                          installed
+ ** Updated     python-ethtool-0.6-5.el6.x86_64                                @base
+    Update                     0.6-6.el6.x86_64                                installed
+    Install     python-lesscpy-0.9j-3.el6.noarch                               @epel
+ ** Updated     python-libipa_hbac-1.13.3-22.el6_8.6.x86_64                    @updates
+    Update                         1.13.3-56.el6.x86_64                        installed
+    Dep-Install python-ply-3.4-4.el6.noarch                                    @epel
+    Dep-Install python-six-1.9.0-2.el6.noarch                                  installed
+    Dep-Install python-sss-murmur-1.13.3-56.el6.x86_64                         installed
+ ** Updated     python-sssdconfig-1.13.3-22.el6_8.6.noarch                     @updates
+    Update                        1.13.3-56.el6.noarch                         installed
+ ** Updated     python34-3.4.5-1.el6.x86_64                                    @epel
+    Update               3.4.5-2.el6.x86_64                                    @epel
+ ** Updated     python34-libs-3.4.5-1.el6.x86_64                               @epel
+    Update                    3.4.5-2.el6.x86_64                               @epel
+ ** Updated     rpcbind-0.2.0-12.el6.x86_64                                    @base
+    Update              0.2.0-13.el6_9.x86_64                                  installed
+    Dep-Install ruby-1.8.7.374-5.el6.x86_64                                    @base
+    Install     ruby-devel-1.8.7.374-5.el6.x86_64                              @base
+    Dep-Install ruby-irb-1.8.7.374-5.el6.x86_64                                @base
+    Dep-Install ruby-libs-1.8.7.374-5.el6.x86_64                               @base
+    Dep-Install ruby-rdoc-1.8.7.374-5.el6.x86_64                               @base
+    Install     rubygems-1.3.7-5.el6.noarch                                    @base
+ ** Updated     samba-3.6.23-36.el6_8.x86_64                                   @updates
+    Update            3.6.23-43.el6_9.x86_64                                   installed
+ ** Updated     samba-client-3.6.23-36.el6_8.x86_64                            @updates
+    Update                   3.6.23-43.el6_9.x86_64                            installed
+ ** Updated     samba-common-3.6.23-36.el6_8.x86_64                            @updates
+    Update                   3.6.23-43.el6_9.x86_64                            installed
+ ** Updated     samba-winbind-3.6.23-36.el6_8.x86_64                           @updates
+    Update                    3.6.23-43.el6_9.x86_64                           installed
+ ** Updated     samba-winbind-clients-3.6.23-36.el6_8.x86_64                   @updates
+    Update                            3.6.23-43.el6_9.x86_64                   installed
+ ** Updated     samba4-libs-4.2.10-7.el6_8.x86_64                              @updates
+    Update                  4.2.10-10.el6_9.x86_64                             installed
+ ** Updated     sane-backends-1.0.21-3.el6.x86_64                              @base/$releasever
+    Update                    1.0.21-5.el6.x86_64                              installed
+ ** Updated     sane-backends-libs-1.0.21-3.el6.x86_64                         @base/$releasever
+    Update                         1.0.21-5.el6.x86_64                         installed
+ ** Updated     sane-backends-libs-gphoto2-1.0.21-3.el6.x86_64                 @base/$releasever
+    Update                                 1.0.21-5.el6.x86_64                 installed
+ ** Updated     sblim-sfcb-1.3.11-4.el6.x86_64                                 ?
+    Update                 1.3.11-5.el6.x86_64                                 installed
+ ** Updated     selinux-policy-3.7.19-292.el6_8.3.noarch                       @updates
+    Update                     3.7.19-307.el6.noarch                           installed
+ ** Updated     selinux-policy-targeted-3.7.19-292.el6_8.3.noarch              @updates
+    Update                              3.7.19-307.el6.noarch                  installed
+ ** Updated     setup-2.8.14-20.el6_4.1.noarch                                 @base
+    Update            2.8.14-23.el6.noarch                                     installed
+ ** Updated     smartmontools-1:5.43-1.el6.x86_64                              @base/$releasever
+    Update                    1:5.43-3.el6.x86_64                              installed
+ ** Updated     sos-3.2-40.el6.centos.noarch                                   @base
+    Update          3.2-54.el6.centos.noarch                                   installed
+ ** Updated     spice-vdagent-0.14.0-11.el6.x86_64                             @base
+    Update                    0.14.0-13.el6.x86_64                             installed
+    Dep-Install sqlite-devel-3.6.20-1.el6_7.2.x86_64                           @base
+ ** Updated     srvadmin-argtable2-8.4.0-2193.9883.el6.x86_64                  @dell-omsa-indep
+    Update                         8.5.0-2372.10488.el6.x86_64                 installed
+ ** Updated     srvadmin-hapi-8.4.0-2193.9883.el6.x86_64                       @dell-omsa-indep
+    Update                    8.5.0-2372.10488.el6.x86_64                      installed
+ ** Updated     srvadmin-idrac-ivmcli-8.4.0-2193.9883.el6.x86_64               @dell-omsa-indep
+    Update                            8.5.0-2372.10488.el6.x86_64              installed
+ ** Updated     srvadmin-idrac-vmcli-8.4.0-2193.9883.el6.x86_64                @dell-omsa-indep
+    Update                           8.5.0-2372.10488.el6.x86_64               installed
+ ** Updated     srvadmin-nvme-8.4.0-2193.9883.el6.x86_64                       @dell-omsa-indep
+    Update                    8.5.0-2372.10488.el6.x86_64                      installed
+ ** Updated     srvadmin-realssd-8.4.0-2193.9883.el6.x86_64                    @dell-omsa-indep
+    Update                       8.5.0-2372.10488.el6.x86_64                   installed
+ ** Updated     srvadmin-storelib-sysfs-8.4.0-2193.9883.el6.x86_64             @dell-omsa-indep
+    Update                              8.5.0-2372.10488.el6.x86_64            installed
+ ** Updated     srvadmin-xmlsup-8.4.0-2193.9883.el6.x86_64                     @dell-omsa-indep
+    Update                      8.5.0-2372.10488.el6.x86_64                    installed
+ ** Updated     sssd-1.13.3-22.el6_8.6.x86_64                                  @updates
+    Update           1.13.3-56.el6.x86_64                                      installed
+ ** Updated     sssd-ad-1.13.3-22.el6_8.6.x86_64                               @updates
+    Update              1.13.3-56.el6.x86_64                                   installed
+ ** Updated     sssd-client-1.13.3-22.el6_8.6.x86_64                           @updates
+    Update                  1.13.3-56.el6.x86_64                               installed
+ ** Updated     sssd-common-1.13.3-22.el6_8.6.x86_64                           @updates
+    Update                  1.13.3-56.el6.x86_64                               installed
+ ** Updated     sssd-common-pac-1.13.3-22.el6_8.6.x86_64                       @updates
+    Update                      1.13.3-56.el6.x86_64                           installed
+ ** Updated     sssd-ipa-1.13.3-22.el6_8.6.x86_64                              @updates
+    Update               1.13.3-56.el6.x86_64                                  installed
+ ** Updated     sssd-krb5-1.13.3-22.el6_8.6.x86_64                             @updates
+    Update                1.13.3-56.el6.x86_64                                 installed
+ ** Updated     sssd-krb5-common-1.13.3-22.el6_8.6.x86_64                      @updates
+    Update                       1.13.3-56.el6.x86_64                          installed
+ ** Updated     sssd-ldap-1.13.3-22.el6_8.6.x86_64                             @updates
+    Update                1.13.3-56.el6.x86_64                                 installed
+ ** Updated     sssd-proxy-1.13.3-22.el6_8.6.x86_64                            @updates
+    Update                 1.13.3-56.el6.x86_64                                installed
+ ** Updated     strace-4.8-10.el6.x86_64                                       ?
+    Update             4.8-11.el6.x86_64                                       installed
+ ** Updated     stunnel-4.29-6.el6.x86_64                                      @base
+    Update              4.29-7.el6.x86_64                                      installed
+ ** Updated     sudo-1.8.6p3-25.el6_8.x86_64                                   @updates
+    Update           1.8.6p3-27.el6.x86_64                                     @base
+ ** Updated     sysstat-9.0.4-31.el6.x86_64                                    @base
+    Update              9.0.4-33.el6.x86_64                                    installed
+ ** Updated     system-config-date-1.9.60-2.el6.centos.noarch                  @base
+    Update                         1.9.60-3.el6.centos.noarch                  installed
+ ** Updated     system-config-kdump-2.0.5-18.el6.noarch                        @base
+    Update                          2.0.5-19.el6.noarch                        installed
+ ** Updated     system-config-printer-1.1.16-25.el6.x86_64                     ?
+    Update                            1.1.16-26.el6.x86_64                     installed
+ ** Updated     system-config-printer-libs-1.1.16-25.el6.x86_64                ?
+    Update                                 1.1.16-26.el6.x86_64                installed
+ ** Updated     system-config-printer-udev-1.1.16-25.el6.x86_64                ?
+    Update                                 1.1.16-26.el6.x86_64                installed
+ ** Updated     system-config-users-1.2.106-8.el6.noarch                       ?
+    Update                          1.2.106-9.el6.noarch                       installed
+ ** Updated     systemtap-2.9-4.el6.x86_64                                     @base
+    Update                2.9-7.el6.x86_64                                     installed
+ ** Updated     systemtap-client-2.9-4.el6.x86_64                              @base
+    Update                       2.9-7.el6.x86_64                              installed
+ ** Updated     systemtap-devel-2.9-4.el6.x86_64                               @base
+    Update                      2.9-7.el6.x86_64                               installed
+ ** Updated     systemtap-runtime-2.9-4.el6.x86_64                             @base
+    Update                        2.9-7.el6.x86_64                             installed
+ ** Updated     tcpdump-14:4.0.0-9.20090921gitdf3cb4.2.el6.x86_64              @base
+    Update              14:4.0.0-11.20090921gitdf3cb4.2.el6.x86_64             installed
+ ** Updated     tcsh-6.17-35.el6_8.1.x86_64                                    @updates
+    Update           6.17-38.el6.x86_64                                        installed
+ ** Updated     thunderbird-45.8.0-1.el6.centos.x86_64                         @updates
+    Update                  52.1.0-1.el6.centos.x86_64                         installed
+ ** Updated     tigervnc-1.1.0-18.el6.x86_64                                   @base
+    Update               1.1.0-24.el6.x86_64                                   installed
+ ** Updated     tigervnc-server-1.1.0-18.el6.x86_64                            @base
+    Update                      1.1.0-24.el6.x86_64                            installed
+ ** Updated     trace-cmd-2.2.4-3.el6.x86_64                                   @base
+    Update                2.2.4-4.el6.x86_64                                   installed
+ ** Updated     tzdata-2017a-1.el6.noarch                                      @updates
+    Update             2017b-1.el6.noarch                                      installed
+ ** Updated     tzdata-java-2017a-1.el6.noarch                                 @updates
+    Update                  2017b-1.el6.noarch                                 installed
+ ** Updated     udisks-1.0.1-9.el6.x86_64                                      ?
+    Update             1.0.1-11.el6.x86_64                                     installed
+ ** Updated     unzip-6.0-4.el6.x86_64                                         @base
+    Update            6.0-5.el6.x86_64                                         installed
+ ** Updated     util-linux-ng-2.17.2-12.24.el6_8.3.x86_64                      @updates
+    Update                    2.17.2-12.28.el6.x86_64                          installed
+ ** Updated     valgrind-1:3.8.1-8.el6.x86_64                                  ?
+    Update               1:3.8.1-9.el6.x86_64                                  installed
+ ** Updated     vino-2.28.1-9.el6_4.x86_64                                     @base
+    Update           2.28.1-10.el6.x86_64                                      installed
+ ** Updated     virt-what-1.11-1.2.el6.x86_64                                  @base/$releasever
+    Update                1.11-1.3.el6.x86_64                                  installed
+ ** Updated     wget-1.12-8.el6.x86_64                                         @base
+    Update           1.12-10.el6.x86_64                                        installed
+ ** Updated     wireshark-1.8.10-17.el6.x86_64                                 ?
+    Update                1.8.10-25.el6.x86_64                                 installed
+ ** Updated     wpa_supplicant-1:0.7.3-8.el6_8.1.x86_64                        @updates
+    Update                     1:0.7.3-9.el6.x86_64                            installed
+ ** Reinstall   xorg-x11-drv-ati-7.6.1-2.el6.x86_64                            @base
+ ** ReinstaFailed to downgrade: GConf2-2.28.0-6.el6.i686
+Failed to downgrade: GConf2-2.28.0-6.el6.x86_64
+Failed to downgrade: GConf2-gtk-2.28.0-6.el6.x86_64
+Failed to downgrade: ImageMagick-6.7.2.7-5.el6_8.x86_64
+Failed to downgrade: ImageMagick-c++-6.7.2.7-5.el6_8.x86_64
+Failed to downgrade: 1:NetworkManager-0.8.1-107.el6.x86_64
+Failed to downgrade: 1:NetworkManager-glib-0.8.1-107.el6.x86_64
+Failed to downgrade: 1:NetworkManager-gnome-0.8.1-107.el6.x86_64
+Failed to downgrade: abrt-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-addon-ccpp-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-addon-kerneloops-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-addon-python-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-cli-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-libs-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-python-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: abrt-tui-2.0.8-40.el6.centos.x86_64
+Failed to downgrade: acl-2.2.49-6.el6.x86_64
+Failed to downgrade: alsa-utils-1.1.0-8.el6.x86_64
+Failed to downgrade: anaconda-13.21.254-1.el6.centos.x86_64
+Failed to downgrade: at-3.1.10-48.el6.x86_64
+Failed to downgrade: audit-2.4.5-3.el6.x86_64
+Failed to downgrade: audit-libs-2.4.5-3.el6.i686
+Failed to downgrade: audit-libs-2.4.5-3.el6.x86_64
+Failed to downgrade: 1:autofs-5.0.5-123.el6_8.x86_64
+Failed to downgrade: avahi-autoipd-0.6.25-15.el6_8.1.x86_64
+Failed to downgrade: avahi-glib-0.6.25-15.el6_8.1.i686
+Failed to downgrade: avahi-glib-0.6.25-15.el6_8.1.x86_64
+Failed to downgrade: avahi-libs-0.6.25-15.el6_8.1.i686
+Failed to downgrade: avahi-libs-0.6.25-15.el6_8.1.x86_64
+Failed to downgrade: avahi-ui-0.6.25-15.el6_8.1.x86_64
+Failed to downgrade: bash-4.1.2-41.el6_8.x86_64
+Failed to downgrade: 32:bind-libs-9.8.2-0.47.rc1.el6_8.4.x86_64
+Failed to downgrade: 32:bind-utils-9.8.2-0.47.rc1.el6_8.4.x86_64
+Failed to downgrade: binutils-2.20.51.0.2-5.44.el6.x86_64
+Failed to downgrade: biosdevname-0.7.1-3.el6.x86_64
+Failed to downgrade: blas-3.2.1-4.el6.x86_64
+Failed to downgrade: blas-devel-3.2.1-4.el6.x86_64
+Failed to downgrade: ca-certificates-2015.2.6-65.0.1.el6_7.noarch
+Failed to downgrade: centos-release-6-8.el6.centos.12.3.x86_64
+Failed to downgrade: certmonger-0.77.5-2.el6.x86_64
+Failed to downgrade: 1:control-center-2.28.1-40.el6.x86_64
+Failed to downgrade: 1:control-center-filesystem-2.28.1-40.el6.x86_64
+Failed to downgrade: coreutils-8.4-43.el6.x86_64
+Failed to downgrade: coreutils-libs-8.4-43.el6.x86_64
+Failed to downgrade: cpio-2.10-12.el6_5.x86_64
+Failed to downgrade: cpp-4.4.7-17.el6.x86_64
+Failed to downgrade: createrepo-0.9.9-24.el6.noarch
+Failed to downgrade: 1:cups-1.4.2-74.el6.x86_64
+Failed to downgrade: 1:cups-libs-1.4.2-74.el6.i686
+Failed to downgrade: 1:cups-libs-1.4.2-74.el6.x86_64
+Failed to downgrade: db4-4.7.25-20.el6_8.1.i686
+Failed to downgrade: db4-4.7.25-20.el6_8.1.x86_64
+Failed to downgrade: db4-cxx-4.7.25-20.el6_8.1.x86_64
+Failed to downgrade: db4-devel-4.7.25-20.el6_8.1.x86_64
+Failed to downgrade: db4-utils-4.7.25-20.el6_8.1.x86_64
+Failed to downgrade: device-mapper-1.02.117-7.el6_8.1.x86_64
+Failed to downgrade: device-mapper-event-1.02.117-7.el6_8.1.x86_64
+Failed to downgrade: device-mapper-event-libs-1.02.117-7.el6_8.1.x86_64
+Failed to downgrade: device-mapper-libs-1.02.117-7.el6_8.1.x86_64
+Failed to downgrade: device-mapper-multipath-0.4.9-93.el6.x86_64
+Failed to downgrade: device-mapper-multipath-libs-0.4.9-93.el6.x86_64
+Failed to downgrade: 12:dhclient-4.1.1-51.P1.el6.centos.x86_64
+Failed to downgrade: 12:dhcp-common-4.1.1-51.P1.el6.centos.x86_64
+Failed to downgrade: dkms-2.3-1.20161202gitde1dca9.el6.noarch
+Failed to downgrade: e2fsprogs-1.41.12-22.el6.x86_64
+Failed to downgrade: e2fsprogs-libs-1.41.12-22.el6.i686
+Failed to downgrade: e2fsprogs-libs-1.41.12-22.el6.x86_64
+Failed to downgrade: efibootmgr-0.5.4-13.el6.x86_64
+Failed to downgrade: evince-dvi-2.28.2-19.el6.x86_64
+Failed to downgrade: evince-libs-2.28.2-19.el6.x86_64
+Failed to downgrade: evolution-data-server-2.32.3-23.el6.x86_64
+Failed to downgrade: fcoe-utils-1.0.28-5.el6.x86_64
+Failed to downgrade: flash-plugin-25.0.0.127-release.x86_64
+Failed to downgrade: foomatic-db-4.0-7.20091126.el6.noarch
+Failed to downgrade: foomatic-db-filesystem-4.0-7.20091126.el6.noarch
+Failed to downgrade: foomatic-db-ppds-4.0-7.20091126.el6.noarch
+Failed to downgrade: gcalctool-5.28.2-3.el6.x86_64
+Failed to downgrade: gcc-4.4.7-17.el6.x86_64
+Failed to downgrade: gcc-c++-4.4.7-17.el6.x86_64
+Failed to downgrade: gcc-gfortran-4.4.7-17.el6.x86_64
+Failed to downgrade: gdb-7.2-90.el6.x86_64
+Failed to downgrade: 1:gdm-2.30.4-64.el6.x86_64
+Failed to downgrade: 1:gdm-libs-2.30.4-64.el6.x86_64
+Failed to downgrade: gegl-0.1.2-5.el6.x86_64
+Failed to downgrade: ghostscript-8.70-21.el6_8.1.x86_64
+Failed to downgrade: 2:gimp-2.6.9-8.el6_6.x86_64
+Failed to downgrade: 2:gimp-help-browser-2.6.9-8.el6_6.x86_64
+Failed to downgrade: 2:gimp-libs-2.6.9-8.el6_6.x86_64
+Failed to downgrade: git-1.7.1-4.el6_7.1.x86_64
+Failed to downgrade: glib-networking-2.28.6.1-2.2.el6.x86_64
+Failed to downgrade: glib2-2.28.8-5.el6.i686
+Failed to downgrade: glib2-2.28.8-5.el6.x86_64
+Failed to downgrade: glib2-devel-2.28.8-5.el6.x86_64
+Failed to downgrade: glibc-2.12-1.192.el6.i686
+Failed to downgrade: glibc-2.12-1.192.el6.x86_64
+Failed to downgrade: glibc-common-2.12-1.192.el6.x86_64
+Failed to downgrade: glibc-devel-2.12-1.192.el6.x86_64
+Failed to downgrade: glibc-headers-2.12-1.192.el6.x86_64
+Failed to downgrade: gmp-4.3.1-10.el6.x86_64
+Failed to downgrade: gnome-packagekit-2.28.3-9.el6.x86_64
+Failed to downgrade: gnome-session-2.28.0-22.el6.x86_64
+Failed to downgrade: gnome-session-xsession-2.28.0-22.el6.x86_64
+Failed to downgrade: gnome-settings-daemon-2.28.2-35.el6_8.2.x86_64
+Failed to downgrade: gnome-system-monitor-2.28.0-11.el6.x86_64
+Failed to downgrade: gnutls-2.8.5-19.el6_7.i686
+Failed to downgrade: gnutls-2.8.5-19.el6_7.x86_64
+Failed to downgrade: grep-2.20-5.el6_8.x86_64
+Failed to downgrade: 1:grub-0.97-94.el6_7.1.x86_64
+Failed to downgrade: gtk2-2.24.23-8.el6.i686
+Failed to downgrade: gtk2-2.24.23-8.el6.x86_64
+Failed to downgrade: gtk2-devel-2.24.23-8.el6.x86_64
+Failed to downgrade: gtk2-immodule-xim-2.24.23-8.el6.x86_64
+Failed to downgrade: gtkhtml3-3.32.2-2.el6.x86_64
+Failed to downgrade: gutenprint-5.2.5-2.el6.x86_64
+Failed to downgrade: gutenprint-cups-5.2.5-2.el6.x86_64
+Failed to downgrade: gutenprint-plugin-5.2.5-2.el6.x86_64
+Failed to downgrade: gvfs-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-afc-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-archive-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-fuse-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-gphoto2-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-obexftp-1.4.3-26.el6.x86_64
+Failed to downgrade: gvfs-smb-1.4.3-26.el6.x86_64
+Failed to downgrade: gzip-1.3.12-22.el6.x86_64
+Failed to downgrade: 1:hpijs-3.14.6-3.el6.x86_64
+Failed to downgrade: hplip-common-3.14.6-3.el6.x86_64
+Failed to downgrade: hplip-libs-3.14.6-3.el6.x86_64
+Failed to downgrade: httpd-2.2.15-56.el6.centos.3.x86_64
+Failed to downgrade: httpd-tools-2.2.15-56.el6.centos.3.x86_64
+Failed to downgrade: hwdata-0.233-16.1.el6.noarch
+Failed to downgrade: initscripts-9.03.53-1.el6.centos.2.x86_64
+Failed to downgrade: iotop-0.3.2-7.el6.noarch
+Failed to downgrade: ipa-client-3.0.0-50.el6.centos.3.x86_64
+Failed to downgrade: ipa-python-3.0.0-50.el6.centos.3.x86_64
+Failed to downgrade: iputils-20071127-21.el6.x86_64
+Failed to downgrade: iscsi-initiator-utils-6.2.0.873-22.el6_8.x86_64
+Failed to downgrade: json-c-0.11-12.el6.x86_64
+Failed to downgrade: kdebase-workspace-4.3.4-35.el6.x86_64
+Failed to downgrade: kdebase-workspace-libs-4.3.4-35.el6.x86_64
+Failed to downgrade: kdebase-workspace-wallpapers-4.3.4-35.el6.noarch
+Failed to downgrade: kdm-4.3.4-35.el6.x86_64
+Failed to downgrade: kernel-firmware-2.6.32-642.15.1.el6.noarch
+Failed to downgrade: kernel-headers-2.6.32-642.15.1.el6.x86_64
+Failed to downgrade: kexec-tools-2.0.0-300.el6_8.2.x86_64
+Failed to downgrade: kpartx-0.4.9-93.el6.x86_64
+Failed to downgrade: krb5-devel-1.10.3-57.el6.x86_64
+Failed to downgrade: krb5-libs-1.10.3-57.el6.i686
+Failed to downgrade: krb5-libs-1.10.3-57.el6.x86_64
+Failed to downgrade: krb5-workstation-1.10.3-57.el6.x86_64
+Failed to downgrade: ksysguardd-4.3.4-35.el6.x86_64
+Failed to downgrade: lapack-3.2.1-4.el6.x86_64
+Failed to downgrade: lapack-devel-3.2.1-4.el6.x86_64
+Failed to downgrade: libX11-1.6.3-2.el6.i686
+Failed to downgrade: libX11-1.6.3-2.el6.x86_64
+Failed to downgrade: libX11-common-1.6.3-2.el6.noarch
+Failed to downgrade: libX11-devel-1.6.3-2.el6.x86_64
+Failed to downgrade: libXfixes-5.0.1-2.1.el6.i686
+Failed to downgrade: libXfixes-5.0.1-2.1.el6.x86_64
+Failed to downgrade: libXfixes-devel-5.0.1-2.1.el6.x86_64
+Failed to downgrade: libXi-1.7.4-1.el6.i686
+Failed to downgrade: libXi-1.7.4-1.el6.x86_64
+Failed to downgrade: libXi-devel-1.7.4-1.el6.x86_64
+Failed to downgrade: libXrandr-1.4.2-1.el6.i686
+Failed to downgrade: libXrandr-1.4.2-1.el6.x86_64
+Failed to downgrade: libXrandr-devel-1.4.2-1.el6.x86_64
+Failed to downgrade: libXrender-0.9.8-2.1.el6_8.1.i686
+Failed to downgrade: libXrender-0.9.8-2.1.el6_8.1.x86_64
+Failed to downgrade: libXrender-devel-0.9.8-2.1.el6_8.1.x86_64
+Failed to downgrade: libXtst-1.2.2-2.1.el6.i686
+Failed to downgrade: libXtst-1.2.2-2.1.el6.x86_64
+Failed to downgrade: libXv-1.0.9-2.1.el6.i686
+Failed to downgrade: libXv-1.0.9-2.1.el6.x86_64
+Failed to downgrade: libXvMC-1.0.8-2.1.el6.x86_64
+Failed to downgrade: libacl-2.2.49-6.el6.i686
+Failed to downgrade: libacl-2.2.49-6.el6.x86_64
+Failed to downgrade: libblkid-2.17.2-12.24.el6_8.3.x86_64
+Failed to downgrade: libcom_err-1.41.12-22.el6.i686
+Failed to downgrade: libcom_err-1.41.12-22.el6.x86_64
+Failed to downgrade: libcom_err-devel-1.41.12-22.el6.x86_64
+Failed to downgrade: libgcc-4.4.7-17.el6.i686
+Failed to downgrade: libgcc-4.4.7-17.el6.x86_64
+Failed to downgrade: libgcj-4.4.7-17.el6.x86_64
+Failed to downgrade: libgfortran-4.4.7-17.el6.x86_64
+Failed to downgrade: libgomp-4.4.7-17.el6.x86_64
+Failed to downgrade: libgphoto2-2.4.7-4.el6.x86_64
+Failed to downgrade: libipa_hbac-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: libitm-5.2.1-2.1.1.el6.x86_64
+Failed to downgrade: libpurple-2.7.9-27.el6.x86_64
+Failed to downgrade: libreport-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-cli-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-compat-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-filesystem-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-gtk-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-newt-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-kerneloops-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-logger-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-mailx-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-reportuploader-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-rhtsupport-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-plugin-ureport-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreport-python-2.0.9-32.el6.centos.x86_64
+Failed to downgrade: libreswan-3.15-5.3.el6.x86_64
+Failed to downgrade: libsane-hpaio-3.14.6-3.el6.x86_64
+Failed to downgrade: libsmbclient-3.6.23-36.el6_8.x86_64
+Failed to downgrade: libss-1.41.12-22.el6.x86_64
+Failed to downgrade: libsss_idmap-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: libstdc++-4.4.7-17.el6.i686
+Failed to downgrade: libstdc++-4.4.7-17.el6.x86_64
+Failed to downgrade: libstdc++-devel-4.4.7-17.el6.x86_64
+Failed to downgrade: libtirpc-0.2.1-11.el6_8.x86_64
+Failed to downgrade: libuuid-2.17.2-12.24.el6_8.3.i686
+Failed to downgrade: libuuid-2.17.2-12.24.el6_8.3.x86_64
+Failed to downgrade: libwsman1-2.2.3.9-2193.9883.el6.x86_64
+Failed to downgrade: libxcb-1.11-2.el6.i686
+Failed to downgrade: libxcb-1.11-2.el6.x86_64
+Failed to downgrade: libxcb-devel-1.11-2.el6.x86_64
+Failed to downgrade: logrotate-3.7.8-26.el6_7.x86_64
+Failed to downgrade: lvm2-2.02.143-7.el6_8.1.x86_64
+Failed to downgrade: lvm2-libs-2.02.143-7.el6_8.1.x86_64
+Failed to downgrade: man-1.6f-32.el6.x86_64
+Failed to downgrade: man-pages-overrides-6.8.2-1.el6.noarch
+Failed to downgrade: mdadm-3.3.4-1.el6_8.5.x86_64
+Failed to downgrade: 1:microcode_ctl-1.17-21.el6.x86_64
+Failed to downgrade: minicom-2.3-6.1.el6.x86_64
+Failed to downgrade: module-init-tools-3.9-25.el6.x86_64
+Failed to downgrade: nautilus-2.28.4-25.el6.x86_64
+Failed to downgrade: nautilus-extensions-2.28.4-25.el6.x86_64
+Failed to downgrade: 1:net-snmp-5.5-57.el6_8.1.x86_64
+Failed to downgrade: 1:net-snmp-libs-5.5-57.el6_8.1.x86_64
+Failed to downgrade: net-tools-1.60-110.el6_2.x86_64
+Failed to downgrade: newt-0.52.11-3.el6.x86_64
+Failed to downgrade: newt-python-0.52.11-3.el6.x86_64
+Failed to downgrade: 1:nfs-utils-1.2.3-70.el6_8.2.x86_64
+Failed to downgrade: nfs-utils-lib-1.1.5-11.el6.x86_64
+Failed to downgrade: 2:nmap-5.51-4.el6.x86_64
+Failed to downgrade: nscd-2.12-1.192.el6.x86_64
+Failed to downgrade: nspr-4.11.0-1.el6.i686
+Failed to downgrade: nspr-4.11.0-1.el6.x86_64
+Failed to downgrade: nss-3.21.3-2.el6_8.i686
+Failed to downgrade: nss-3.21.3-2.el6_8.x86_64
+Failed to downgrade: nss-sysinit-3.21.3-2.el6_8.x86_64
+Failed to downgrade: nss-tools-3.21.3-2.el6_8.x86_64
+Failed to downgrade: nss-util-3.21.3-1.el6_8.i686
+Failed to downgrade: nss-util-3.21.3-1.el6_8.x86_64
+Failed to downgrade: openchange-1.0-7.el6_7.x86_64
+Failed to downgrade: openldap-2.4.40-12.el6.i686
+Failed to downgrade: openldap-2.4.40-12.el6.x86_64
+Failed to downgrade: openldap-clients-2.4.40-12.el6.x86_64
+Failed to downgrade: openmotif-2.3.3-8.el6.x86_64
+Failed to downgrade: openssh-5.3p1-118.1.el6_8.x86_64
+Failed to downgrade: openssh-askpass-5.3p1-118.1.el6_8.x86_64
+Failed to downgrade: openssh-clients-5.3p1-118.1.el6_8.x86_64
+Failed to downgrade: openssh-server-5.3p1-118.1.el6_8.x86_64
+Failed to downgrade: openssl-1.0.1e-48.el6_8.4.i686
+Failed to downgrade: openssl-1.0.1e-48.el6_8.4.x86_64
+Failed to downgrade: openssl-devel-1.0.1e-48.el6_8.4.x86_64
+Failed to downgrade: openwsman-client-2.2.3.9-2193.9883.el6.x86_64
+Failed to downgrade: openwsman-server-2.2.3.9-2193.9883.el6.x86_64
+Failed to downgrade: oxygen-cursor-themes-4.3.4-35.el6.noarch
+Failed to downgrade: pam-1.1.1-22.el6.i686
+Failed to downgrade: pam-1.1.1-22.el6.x86_64
+Failed to downgrade: pam-devel-1.1.1-22.el6.x86_64
+Failed to downgrade: parallel-20170222-1.1.noarch
+Failed to downgrade: pcsc-lite-1.5.2-15.el6.x86_64
+Failed to downgrade: pcsc-lite-libs-1.5.2-15.el6.x86_64
+Failed to downgrade: 4:perl-5.10.1-141.el6_7.1.x86_64
+Failed to downgrade: perl-CGI-3.51-141.el6_7.1.x86_64
+Failed to downgrade: 1:perl-Compress-Raw-Zlib-2.021-141.el6_7.1.x86_64
+Failed to downgrade: perl-Compress-Zlib-2.021-141.el6_7.1.x86_64
+Failed to downgrade: perl-ExtUtils-MakeMaker-6.55-141.el6_7.1.x86_64
+Failed to downgrade: 1:perl-ExtUtils-ParseXS-2.2003.0-141.el6_7.1.x86_64
+Failed to downgrade: perl-Git-1.7.1-4.el6_7.1.noarch
+Failed to downgrade: perl-IO-Compress-Base-2.021-141.el6_7.1.x86_64
+Failed to downgrade: perl-IO-Compress-Zlib-2.021-141.el6_7.1.x86_64
+Failed to downgrade: 1:perl-Module-Pluggable-3.90-141.el6_7.1.x86_64
+Failed to downgrade: 1:perl-Pod-Escapes-1.04-141.el6_7.1.x86_64
+Failed to downgrade: 1:perl-Pod-Simple-3.13-141.el6_7.1.x86_64
+Failed to downgrade: perl-Test-Harness-3.17-141.el6_7.1.x86_64
+Failed to downgrade: perl-Test-Simple-0.92-141.el6_7.1.x86_64
+Failed to downgrade: 4:perl-devel-5.10.1-141.el6_7.1.x86_64
+Failed to downgrade: 4:perl-libs-5.10.1-141.el6_7.1.x86_64
+Failed to downgrade: perl-libwww-perl-5.833-3.el6.noarch
+Failed to downgrade: 3:perl-version-0.77-141.el6_7.1.x86_64
+Failed to downgrade: php-5.3.3-48.el6_8.x86_64
+Failed to downgrade: php-cli-5.3.3-48.el6_8.x86_64
+Failed to downgrade: php-common-5.3.3-48.el6_8.x86_64
+Failed to downgrade: pidgin-2.7.9-27.el6.x86_64
+Failed to downgrade: plymouth-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-core-libs-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-gdm-hooks-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-graphics-libs-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-plugin-label-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-plugin-two-step-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-scripts-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: plymouth-system-theme-0.8.3-27.el6.centos.1.noarch
+Failed to downgrade: plymouth-theme-rings-0.8.3-27.el6.centos.1.noarch
+Failed to downgrade: plymouth-utils-0.8.3-27.el6.centos.1.x86_64
+Failed to downgrade: poppler-0.12.4-10.el6.x86_64
+Failed to downgrade: poppler-glib-0.12.4-10.el6.x86_64
+Failed to downgrade: poppler-qt4-0.12.4-10.el6.x86_64
+Failed to downgrade: poppler-utils-0.12.4-10.el6.x86_64
+Failed to downgrade: 2:postfix-2.6.6-6.el6_7.1.x86_64
+Failed to downgrade: postgresql-libs-8.4.20-6.el6.x86_64
+Failed to downgrade: procps-3.2.8-36.el6.x86_64
+Failed to downgrade: psacct-6.3.2-63.el6_3.3.x86_64
+Failed to downgrade: psmisc-22.6-19.el6_5.x86_64
+Failed to downgrade: pulseaudio-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-gdm-hooks-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-libs-0.9.21-24.el6.i686
+Failed to downgrade: pulseaudio-libs-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-libs-glib2-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-module-bluetooth-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-module-gconf-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-module-x11-0.9.21-24.el6.x86_64
+Failed to downgrade: pulseaudio-utils-0.9.21-24.el6.x86_64
+Failed to downgrade: pykickstart-1.74.20-1.el6.noarch
+Failed to downgrade: python-dateutil-1.4.1-6.el6.noarch
+Failed to downgrade: python-dmidecode-3.10.13-3.el6_4.x86_64
+Failed to downgrade: python-ethtool-0.6-5.el6.x86_64
+Failed to downgrade: python-libipa_hbac-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: python-sssdconfig-1.13.3-22.el6_8.6.noarch
+Failed to downgrade: python34-3.4.5-1.el6.x86_64
+Failed to downgrade: python34-libs-3.4.5-1.el6.x86_64
+Failed to downgrade: rpcbind-0.2.0-12.el6.x86_64
+Failed to downgrade: samba-3.6.23-36.el6_8.x86_64
+Failed to downgrade: samba-client-3.6.23-36.el6_8.x86_64
+Failed to downgrade: samba-common-3.6.23-36.el6_8.x86_64
+Failed to downgrade: samba-winbind-3.6.23-36.el6_8.x86_64
+Failed to downgrade: samba-winbind-clients-3.6.23-36.el6_8.x86_64
+Failed to downgrade: samba4-libs-4.2.10-7.el6_8.x86_64
+Failed to downgrade: sane-backends-1.0.21-3.el6.x86_64
+Failed to downgrade: sane-backends-libs-1.0.21-3.el6.x86_64
+Failed to downgrade: sane-backends-libs-gphoto2-1.0.21-3.el6.x86_64
+Failed to downgrade: sblim-sfcb-1.3.11-4.el6.x86_64
+Failed to downgrade: selinux-policy-3.7.19-292.el6_8.3.noarch
+Failed to downgrade: selinux-policy-targeted-3.7.19-292.el6_8.3.noarch
+Failed to downgrade: setup-2.8.14-20.el6_4.1.noarch
+Failed to downgrade: 1:smartmontools-5.43-1.el6.x86_64
+Failed to downgrade: sos-3.2-40.el6.centos.noarch
+Failed to downgrade: spice-vdagent-0.14.0-11.el6.x86_64
+Failed to downgrade: srvadmin-argtable2-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-hapi-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-idrac-ivmcli-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-idrac-vmcli-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-nvme-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-realssd-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-storelib-sysfs-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: srvadmin-xmlsup-8.4.0-2193.9883.el6.x86_64
+Failed to downgrade: sssd-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-ad-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-client-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-common-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-common-pac-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-ipa-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-krb5-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-krb5-common-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-ldap-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: sssd-proxy-1.13.3-22.el6_8.6.x86_64
+Failed to downgrade: strace-4.8-10.el6.x86_64
+Failed to downgrade: stunnel-4.29-6.el6.x86_64
+Failed to downgrade: sudo-1.8.6p3-25.el6_8.x86_64
+Failed to downgrade: sysstat-9.0.4-31.el6.x86_64
+Failed to downgrade: system-config-date-1.9.60-2.el6.centos.noarch
+Failed to downgrade: system-config-kdump-2.0.5-18.el6.noarch
+Failed to downgrade: system-config-printer-1.1.16-25.el6.x86_64
+Failed to downgrade: system-config-printer-libs-1.1.16-25.el6.x86_64
+Failed to downgrade: system-config-printer-udev-1.1.16-25.el6.x86_64
+Failed to downgrade: system-config-users-1.2.106-8.el6.noarch
+Failed to downgrade: systemtap-2.9-4.el6.x86_64
+Failed to downgrade: systemtap-client-2.9-4.el6.x86_64
+Failed to downgrade: systemtap-devel-2.9-4.el6.x86_64
+Failed to downgrade: systemtap-runtime-2.9-4.el6.x86_64
+Failed to downgrade: 14:tcpdump-4.0.0-9.20090921gitdf3cb4.2.el6.x86_64
+Failed to downgrade: tcsh-6.17-35.el6_8.1.x86_64
+Failed to downgrade: tigervnc-1.1.0-18.el6.x86_64
+Failed to downgrade: tigervnc-server-1.1.0-18.el6.x86_64
+Failed to downgrade: trace-cmd-2.2.4-3.el6.x86_64
+Failed to downgrade: udisks-1.0.1-9.el6.x86_64
+Failed to downgrade: unzip-6.0-4.el6.x86_64
+Failed to downgrade: util-linux-ng-2.17.2-12.24.el6_8.3.x86_64
+Failed to downgrade: 1:valgrind-3.8.1-8.el6.x86_64
+Failed to downgrade: vino-2.28.1-9.el6_4.x86_64
+Failed to downgrade: virt-what-1.11-1.2.el6.x86_64
+Failed to downgrade: wget-1.12-8.el6.x86_64
+Failed to downgrade: wireshark-1.8.10-17.el6.x86_64
+Failed to downgrade: 1:wpa_supplicant-0.7.3-8.el6_8.1.x86_64
+Failed to downgrade: xorg-x11-drv-mach64-6.9.4-10.el6.x86_64
+Failed to downgrade: xorg-x11-drv-mga-1.6.3-9.el6.x86_64
+Failed to downgrade: xorg-x11-proto-devel-7.7-13.el6.noarch
+Failed to downgrade: xorg-x11-server-Xorg-1.17.4-9.5.el6.centos.x86_64
+Failed to downgrade: xorg-x11-server-common-1.17.4-9.5.el6.centos.x86_64
+Failed to downgrade: yum-3.2.29-75.el6.centos.noarch
+Failed to downgrade: yum-plugin-auto-update-debug-info-1.1.30-37.el6.noarch
+Failed to downgrade: yum-plugin-fastestmirror-1.1.30-37.el6.noarch
+Failed to downgrade: yum-plugin-security-1.1.30-37.el6.noarch
+Failed to downgrade: yum-utils-1.1.30-37.el6.noarch
+ll   xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch                   @base
+ ** Updated     xorg-x11-drv-mach64-6.9.4-10.el6.x86_64                        @base
+    Update                          6.9.5-1.el6.x86_64                         installed
+ ** Updated     xorg-x11-drv-mga-1.6.3-9.el6.x86_64                            @base
+    Update                       1.6.3-11.el6.x86_64                           installed
+ ** Updated     xorg-x11-proto-devel-7.7-13.el6.noarch                         @base
+    Update                           7.7-14.el6.noarch                         installed
+ ** Updated     xorg-x11-server-Xorg-1.17.4-9.5.el6.centos.x86_64              @updates
+    Update                           1.17.4-16.el6.centos.x86_64               installed
+ ** Updated     xorg-x11-server-common-1.17.4-9.5.el6.centos.x86_64            @updates
+    Update                             1.17.4-16.el6.centos.x86_64             installed
+ ** Updated     yum-3.2.29-75.el6.centos.noarch                                @updates
+    Update          3.2.29-81.el6.centos.noarch                                installed
+ ** Updated     yum-plugin-auto-update-debug-info-1.1.30-37.el6.noarch         @base
+    Update                                        1.1.30-40.el6.noarch         installed
+ ** Updated     yum-plugin-fastestmirror-1.1.30-37.el6.noarch                  @base
+    Update                               1.1.30-40.el6.noarch                  installed
+ ** Updated     yum-plugin-security-1.1.30-37.el6.noarch                       @base
+    Update                          1.1.30-40.el6.noarch                       installed
+ ** Updated     yum-utils-1.1.30-37.el6.noarch                                 @base
+    Update                1.1.30-40.el6.noarch                                 installed
+Resolving Dependencies
+--> Running transaction check
+---> Package autocorr-de.noarch 1:4.3.7.2-2.el6 will be a downgrade
+---> Package autocorr-de.noarch 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package autocorr-en.noarch 1:4.3.7.2-2.el6 will be a downgrade
+---> Package autocorr-en.noarch 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package autocorr-fr.noarch 1:4.3.7.2-2.el6 will be a downgrade
+---> Package autocorr-fr.noarch 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package autocorr-nl.noarch 1:4.3.7.2-2.el6 will be a downgrade
+---> Package autocorr-nl.noarch 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package compat-readline5.x86_64 0:5.2-17.1.el6 will be erased
+---> Package curl.x86_64 0:7.19.7-52.el6 will be a downgrade
+---> Package curl.x86_64 0:7.19.7-53.el6_9 will be erased
+---> Package dcraw.x86_64 0:8.96-1.1.el6 will be erased
+--> Processing Dependency: dcraw for package: gegl-0.1.2-6.el6.x86_64
+---> Package firefox.x86_64 0:45.8.0-2.el6.centos will be a downgrade
+---> Package firefox.x86_64 0:52.1.0-2.el6.centos will be erased
+---> Package gitlab-ce.x86_64 0:8.17.3-ce.0.el6 will be a downgrade
+---> Package gitlab-ce.x86_64 0:9.2.2-ce.0.el6 will be erased
+---> Package glibc-debuginfo.x86_64 0:2.12-1.192.el6 will be a downgrade
+---> Package glibc-debuginfo.x86_64 0:2.12-1.209.el6_9.1 will be erased
+---> Package glibc-debuginfo-common.x86_64 0:2.12-1.192.el6 will be a downgrade
+---> Package glibc-debuginfo-common.x86_64 0:2.12-1.209.el6_9.1 will be erased
+---> Package go-bindata.x86_64 0:0-0.4.git79847ab.el6 will be erased
+---> Package golang.x86_64 0:1.7.4-1.el6 will be erased
+---> Package golang-bin.x86_64 0:1.7.4-1.el6 will be erased
+---> Package golang-github-mattn-go-sqlite3-devel.noarch 0:1.0.0-1.el6 will be erased
+---> Package golang-googlecode-sqlite-devel.x86_64 0:0-0.8.hg74691fb6f837.el6 will be erased
+---> Package golang-src.noarch 0:1.7.4-1.el6 will be erased
+---> Package jasper.x86_64 0:1.900.1-16.el6_6.3 will be a downgrade
+---> Package jasper.x86_64 0:1.900.1-21.el6_9 will be erased
+---> Package jasper-libs.i686 0:1.900.1-16.el6_6.3 will be a downgrade
+---> Package jasper-libs.x86_64 0:1.900.1-16.el6_6.3 will be a downgrade
+---> Package jasper-libs.i686 0:1.900.1-21.el6_9 will be erased
+---> Package jasper-libs.x86_64 0:1.900.1-21.el6_9 will be erased
+---> Package java-1.7.0-openjdk.x86_64 1:1.7.0.131-2.6.9.0.el6_8 will be a downgrade
+---> Package java-1.7.0-openjdk.x86_64 1:1.7.0.141-2.6.10.1.el6_9 will be erased
+---> Package kernel.x86_64 0:2.6.32-696.1.1.el6 will be erased
+---> Package kernel-devel.x86_64 0:2.6.32-696.1.1.el6 will be erased
+---> Package libcurl.x86_64 0:7.19.7-52.el6 will be a downgrade
+---> Package libcurl.x86_64 0:7.19.7-53.el6_9 will be erased
+---> Package libkadm5.x86_64 0:1.10.3-65.el6 will be erased
+--> Processing Dependency: libkadm5clnt_mit.so.8()(64bit) for package: krb5-workstation-1.10.3-65.el6.x86_64
+--> Processing Dependency: libkadm5clnt_mit.so.8(kadm5clnt_mit_8_MIT)(64bit) for package: krb5-workstation-1.10.3-65.el6.x86_64
+--> Processing Dependency: libkadm5srv_mit.so.8()(64bit) for package: krb5-workstation-1.10.3-65.el6.x86_64
+--> Processing Dependency: libkadm5srv_mit.so.8(kadm5srv_mit_8_MIT)(64bit) for package: krb5-workstation-1.10.3-65.el6.x86_64
+--> Processing Dependency: libkadm5(x86-64) = 1.10.3-65.el6 for package: krb5-devel-1.10.3-65.el6.x86_64
+---> Package libreoffice-base.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-base.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-calc.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-calc.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-core.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-core.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-draw.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-draw.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-emailmerge.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-emailmerge.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-graphicfilter.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-graphicfilter.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-headless.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-headless.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-impress.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-impress.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-langpack-de.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-langpack-de.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-langpack-en.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-langpack-en.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-langpack-fr.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-langpack-fr.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-langpack-nl.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-langpack-nl.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-math.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-math.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-ogltrans.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-ogltrans.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-opensymbol-fonts.noarch 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-opensymbol-fonts.noarch 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-pdfimport.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-pdfimport.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-pyuno.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-pyuno.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-ure.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-ure.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-wiki-publisher.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-wiki-publisher.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-writer.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-writer.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package libreoffice-xsltfilter.x86_64 1:4.3.7.2-2.el6 will be a downgrade
+---> Package libreoffice-xsltfilter.x86_64 1:4.3.7.2-2.el6_9.1 will be erased
+---> Package memtester.x86_64 0:4.2.1-1.el6 will be erased
+---> Package openjpeg-libs.x86_64 0:1.3-11.el6 will be a downgrade
+---> Package openjpeg-libs.x86_64 0:1.3-16.el6_8 will be erased
+---> Package python-lesscpy.noarch 0:0.9j-3.el6 will be erased
+---> Package python-ply.noarch 0:3.4-4.el6 will be erased
+---> Package python-six.noarch 0:1.9.0-2.el6 will be erased
+--> Processing Dependency: python-six for package: python-dateutil-1.4.1-7.el6.noarch
+---> Package python-sss-murmur.x86_64 0:1.13.3-56.el6 will be erased
+--> Processing Dependency: python-sss-murmur for package: ipa-python-3.0.0-51.el6.centos.x86_64
+---> Package ruby.x86_64 0:1.8.7.374-5.el6 will be erased
+---> Package ruby-devel.x86_64 0:1.8.7.374-5.el6 will be erased
+---> Package ruby-irb.x86_64 0:1.8.7.374-5.el6 will be erased
+---> Package ruby-libs.x86_64 0:1.8.7.374-5.el6 will be erased
+---> Package ruby-rdoc.x86_64 0:1.8.7.374-5.el6 will be erased
+---> Package rubygems.noarch 0:1.3.7-5.el6 will be erased
+---> Package sqlite-devel.x86_64 0:3.6.20-1.el6_7.2 will be erased
+---> Package thunderbird.x86_64 0:45.8.0-1.el6.centos will be a downgrade
+---> Package thunderbird.x86_64 0:52.1.0-1.el6.centos will be erased
+---> Package tzdata.noarch 0:2017a-1.el6 will be a downgrade
+---> Package tzdata.noarch 0:2017b-1.el6 will be erased
+---> Package tzdata-java.noarch 0:2017a-1.el6 will be a downgrade
+---> Package tzdata-java.noarch 0:2017b-1.el6 will be erased
+---> Package xorg-x11-drv-ati.x86_64 0:7.6.1-2.el6 will be reinstalled
+---> Package xorg-x11-drv-ati-firmware.noarch 0:7.6.1-2.el6 will be reinstalled
+--> Running transaction check
+---> Package gegl.x86_64 0:0.1.2-6.el6 will be erased
+--> Processing Dependency: libgegl-0.1.so.0()(64bit) for package: 2:gimp-2.6.9-9.el6.x86_64
+---> Package ipa-python.x86_64 0:3.0.0-51.el6.centos will be erased
+--> Processing Dependency: ipa-python = 3.0.0-51.el6.centos for package: ipa-client-3.0.0-51.el6.centos.x86_64
+---> Package krb5-devel.x86_64 0:1.10.3-65.el6 will be erased
+--> Processing Dependency: krb5-devel for package: openssl-devel-1.0.1e-57.el6.x86_64
+---> Package krb5-workstation.x86_64 0:1.10.3-65.el6 will be erased
+---> Package python-dateutil.noarch 0:1.4.1-7.el6 will be erased
+--> Processing Dependency: python-dateutil for package: python-matplotlib-0.99.1.2-1.el6.x86_64
+--> Running transaction check
+---> Package gimp.x86_64 2:2.6.9-9.el6 will be erased
+--> Processing Dependency: gimp >= 2:2.2.12-4 for package: xsane-gimp-0.997-8.el6.x86_64
+--> Processing Dependency: gimp >= 2:2.0 for package: gimp-data-extras-2.0.2-3.1.el6.noarch
+--> Processing Dependency: gimp >= 2:2.4 for package: gimp-help-2.4.2-5.1.el6.noarch
+--> Processing Dependency: gimp for package: gutenprint-plugin-5.2.5-3.el6.x86_64
+--> Processing Dependency: gimp(x86-64) = 2:2.6.9-9.el6 for package: 2:gimp-help-browser-2.6.9-9.el6.x86_64
+---> Package ipa-client.x86_64 0:3.0.0-51.el6.centos will be erased
+---> Package openssl-devel.x86_64 0:1.0.1e-57.el6 will be erased
+---> Package python-matplotlib.x86_64 0:0.99.1.2-1.el6 will be erased
+--> Running transaction check
+---> Package gimp-data-extras.noarch 0:2.0.2-3.1.el6 will be erased
+---> Package gimp-help.noarch 0:2.4.2-5.1.el6 will be erased
+---> Package gimp-help-browser.x86_64 2:2.6.9-9.el6 will be erased
+---> Package gutenprint-plugin.x86_64 0:5.2.5-3.el6 will be erased
+---> Package xsane-gimp.x86_64 0:0.997-8.el6 will be erased
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                    Arch   Version              Repository         Size
+================================================================================
+Removing:
+ compat-readline5           x86_64 5.2-17.1.el6         @base             355 k
+ dcraw                      x86_64 8.96-1.1.el6         installed         427 k
+ go-bindata                 x86_64 0-0.4.git79847ab.el6 @epel             1.8 M
+ golang                     x86_64 1.7.4-1.el6          @epel              11 M
+ golang-bin                 x86_64 1.7.4-1.el6          @epel             160 M
+ golang-github-mattn-go-sqlite3-devel
+                            noarch 1.0.0-1.el6          @epel             5.4 M
+ golang-googlecode-sqlite-devel
+                            x86_64 0-0.8.hg74691fb6f837.el6
+                                                        @epel              24 k
+ golang-src                 noarch 1.7.4-1.el6          @epel              21 M
+ kernel                     x86_64 2.6.32-696.1.1.el6   installed         131 M
+ kernel-devel               x86_64 2.6.32-696.1.1.el6   installed          26 M
+ libkadm5                   x86_64 1.10.3-65.el6        installed         207 k
+ memtester                  x86_64 4.2.1-1.el6          @epel              48 k
+ python-lesscpy             noarch 0.9j-3.el6           @epel             308 k
+ python-ply                 noarch 3.4-4.el6            @epel             533 k
+ python-six                 noarch 1.9.0-2.el6          installed          97 k
+ python-sss-murmur          x86_64 1.13.3-56.el6        installed         5.5 k
+ ruby                       x86_64 1.8.7.374-5.el6      @base             1.8 M
+ ruby-devel                 x86_64 1.8.7.374-5.el6      @base             1.1 M
+ ruby-irb                   x86_64 1.8.7.374-5.el6      @base             1.0 M
+ ruby-libs                  x86_64 1.8.7.374-5.el6      @base             5.7 M
+ ruby-rdoc                  x86_64 1.8.7.374-5.el6      @base             1.3 M
+ rubygems                   noarch 1.3.7-5.el6          @base             713 k
+ sqlite-devel               x86_64 3.6.20-1.el6_7.2     @base             283 k
+Reinstalling:
+ xorg-x11-drv-ati           x86_64 7.6.1-2.el6          base              169 k
+ xorg-x11-drv-ati-firmware  noarch 7.6.1-2.el6          base              1.2 M
+Downgrading:
+ autocorr-de                noarch 1:4.3.7.2-2.el6      base              103 k
+ autocorr-en                noarch 1:4.3.7.2-2.el6      base              119 k
+ autocorr-fr                noarch 1:4.3.7.2-2.el6      base              103 k
+ autocorr-nl                noarch 1:4.3.7.2-2.el6      base              103 k
+ curl                       x86_64 7.19.7-52.el6        base              197 k
+ firefox                    x86_64 45.8.0-2.el6.centos  updates            74 M
+ gitlab-ce                  x86_64 8.17.3-ce.0.el6      gitlab_gitlab-ce  254 M
+ glibc-debuginfo            x86_64 2.12-1.192.el6       base-debuginfo    8.7 M
+ glibc-debuginfo-common     x86_64 2.12-1.192.el6       base-debuginfo    8.3 M
+ jasper                     x86_64 1.900.1-16.el6_6.3   base               22 k
+ jasper-libs                i686   1.900.1-16.el6_6.3   base              137 k
+ jasper-libs                x86_64 1.900.1-16.el6_6.3   base              137 k
+ java-1.7.0-openjdk         x86_64 1:1.7.0.131-2.6.9.0.el6_8
+                                                        base               26 M
+ libcurl                    x86_64 7.19.7-52.el6        base              169 k
+ libreoffice-base           x86_64 1:4.3.7.2-2.el6      base              1.8 M
+ libreoffice-calc           x86_64 1:4.3.7.2-2.el6      base              7.9 M
+ libreoffice-core           x86_64 1:4.3.7.2-2.el6      base               81 M
+ libreoffice-draw           x86_64 1:4.3.7.2-2.el6      base              636 k
+ libreoffice-emailmerge     x86_64 1:4.3.7.2-2.el6      base               23 k
+ libreoffice-graphicfilter  x86_64 1:4.3.7.2-2.el6      base              1.7 M
+ libreoffice-headless       x86_64 1:4.3.7.2-2.el6      base              388 k
+ libreoffice-impress        x86_64 1:4.3.7.2-2.el6      base              1.4 M
+ libreoffice-langpack-de    x86_64 1:4.3.7.2-2.el6      base              7.5 M
+ libreoffice-langpack-en    x86_64 1:4.3.7.2-2.el6      base              8.9 k
+ libreoffice-langpack-fr    x86_64 1:4.3.7.2-2.el6      base              7.6 M
+ libreoffice-langpack-nl    x86_64 1:4.3.7.2-2.el6      base              7.2 M
+ libreoffice-math           x86_64 1:4.3.7.2-2.el6      base              944 k
+ libreoffice-ogltrans       x86_64 1:4.3.7.2-2.el6      base               75 k
+ libreoffice-opensymbol-fonts
+                            noarch 1:4.3.7.2-2.el6      base              185 k
+ libreoffice-pdfimport      x86_64 1:4.3.7.2-2.el6      base              212 k
+ libreoffice-pyuno          x86_64 1:4.3.7.2-2.el6      base              449 k
+ libreoffice-ure            x86_64 1:4.3.7.2-2.el6      base              2.4 M
+ libreoffice-wiki-publisher x86_64 1:4.3.7.2-2.el6      base              1.3 M
+ libreoffice-writer         x86_64 1:4.3.7.2-2.el6      base              4.4 M
+ libreoffice-xsltfilter     x86_64 1:4.3.7.2-2.el6      base              384 k
+ openjpeg-libs              x86_64 1.3-11.el6           base               60 k
+ thunderbird                x86_64 45.8.0-1.el6.centos  updates            60 M
+ tzdata                     noarch 2017a-1.el6          updates           455 k
+ tzdata-java                noarch 2017a-1.el6          updates           183 k
+Removing for dependencies:
+ gegl                       x86_64 0.1.2-6.el6          installed         1.7 M
+ gimp                       x86_64 2:2.6.9-9.el6        installed          46 M
+ gimp-data-extras           noarch 2.0.2-3.1.el6        @base/$releasever 7.6 M
+ gimp-help                  noarch 2.4.2-5.1.el6        @base/$releasever  95 M
+ gimp-help-browser          x86_64 2:2.6.9-9.el6        installed          59 k
+ gutenprint-plugin          x86_64 5.2.5-3.el6          installed          20 k
+ ipa-client                 x86_64 3.0.0-51.el6.centos  installed         312 k
+ ipa-python                 x86_64 3.0.0-51.el6.centos  installed         4.6 M
+ krb5-devel                 x86_64 1.10.3-65.el6        installed         2.3 M
+ krb5-workstation           x86_64 1.10.3-65.el6        installed         1.0 M
+ openssl-devel              x86_64 1.0.1e-57.el6        installed         2.2 M
+ python-dateutil            noarch 1.4.1-7.el6          installed         342 k
+ python-matplotlib          x86_64 0.99.1.2-1.el6       @base              13 M
+ xsane-gimp                 x86_64 0.997-8.el6          @base/$releasever 645 k
+
+Transaction Summary
+================================================================================
+Remove       37 Package(s)
+Reinstall     2 Package(s)
+Downgrade    39 Package(s)
+
+Total size: 562 M
+Total download size: 562 M
+Is this ok [y/N]: Downloading Packages:
+--------------------------------------------------------------------------------
+Total                                           5.5 MB/s | 562 MB     01:42     
+Running rpm_check_debug
+Running Transaction Test
+Transaction Test Succeeded
+Running Transaction
+  Installing : 1:autocorr-en-4.3.7.2-2.el6.noarch                         1/117 
+  Installing : libcurl-7.19.7-52.el6.x86_64                               2/117 
+  Installing : 1:autocorr-de-4.3.7.2-2.el6.noarch                         3/117 
+  Installing : glibc-debuginfo-common-2.12-1.192.el6.x86_64               4/117 
+  Installing : jasper-libs-1.900.1-16.el6_6.3.x86_64                      5/117 
+  Installing : 1:autocorr-fr-4.3.7.2-2.el6.noarch                         6/117 
+  Installing : tzdata-java-2017a-1.el6.noarch                             7/117 
+  Installing : 1:java-1.7.0-openjdk-1.7.0.131-2.6.9.0.el6_8.x86_64        8/117 
+  Installing : 1:libreoffice-ure-4.3.7.2-2.el6.x86_64                     9/117 
+  Installing : 1:autocorr-nl-4.3.7.2-2.el6.noarch                        10/117 
+  Installing : 1:libreoffice-opensymbol-fonts-4.3.7.2-2.el6.noarch       11/117 
+  Installing : 1:libreoffice-core-4.3.7.2-2.el6.x86_64                   12/117 
+  Installing : 1:libreoffice-writer-4.3.7.2-2.el6.x86_64                 13/117 
+  Installing : 1:libreoffice-graphicfilter-4.3.7.2-2.el6.x86_64          14/117 
+  Installing : 1:libreoffice-draw-4.3.7.2-2.el6.x86_64                   15/117 
+  Installing : 1:libreoffice-pdfimport-4.3.7.2-2.el6.x86_64              16/117 
+  Installing : 1:libreoffice-calc-4.3.7.2-2.el6.x86_64                   17/117 
+  Installing : 1:libreoffice-impress-4.3.7.2-2.el6.x86_64                18/117 
+  Installing : 1:libreoffice-pyuno-4.3.7.2-2.el6.x86_64                  19/117 
+  Installing : 1:libreoffice-emailmerge-4.3.7.2-2.el6.x86_64             20/117 
+  Installing : 1:libreoffice-ogltrans-4.3.7.2-2.el6.x86_64               21/117 
+  Installing : 1:libreoffice-base-4.3.7.2-2.el6.x86_64                   22/117 
+  Installing : 1:libreoffice-wiki-publisher-4.3.7.2-2.el6.x86_64         23/117 
+  Installing : 1:libreoffice-headless-4.3.7.2-2.el6.x86_64               24/117 
+  Installing : 1:libreoffice-langpack-nl-4.3.7.2-2.el6.x86_64            25/117 
+  Installing : 1:libreoffice-langpack-en-4.3.7.2-2.el6.x86_64            26/117 
+  Installing : 1:libreoffice-langpack-fr-4.3.7.2-2.el6.x86_64            27/117 
+  Installing : 1:libreoffice-math-4.3.7.2-2.el6.x86_64                   28/117 
+  Installing : 1:libreoffice-langpack-de-4.3.7.2-2.el6.x86_64            29/117 
+  Installing : 1:libreoffice-xsltfilter-4.3.7.2-2.el6.x86_64             30/117 
+  Installing : jasper-1.900.1-16.el6_6.3.x86_64                          31/117 
+  Installing : glibc-debuginfo-2.12-1.192.el6.x86_64                     32/117 
+  Installing : curl-7.19.7-52.el6.x86_64                                 33/117 
+  Installing : xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch              34/117 
+  Installing : firefox-45.8.0-2.el6.centos.x86_64                        35/117 
+gitlab preinstall: Automatically backing up only the GitLab SQL database (excluding everything else!)
+rake aborted!
+TypeError: no implicit conversion of nil into String
+/opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:83:in `expand_path'
+/opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:83:in `absolute'
+/opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:413:in `block in <top (required)>'
+/opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:411:in `each'
+/opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:411:in `<top (required)>'
+/opt/gitlab/embedded/service/gitlab-rails/config/environment.rb:5:in `<top (required)>'
+/opt/gitlab/embedded/bin/bundle:22:in `load'
+/opt/gitlab/embedded/bin/bundle:22:in `<main>'
+Tasks: TOP => gitlab:backup:create => environment
+(See full trace by running task with --trace)
+gitlab preinstall: 
+gitlab preinstall: Backup failed! If you want to skip this backup, run the following command and
+gitlab preinstall: try again:
+gitlab preinstall: 
+gitlab preinstall:   sudo touch /etc/gitlab/skip-auto-migrations
+gitlab preinstall: 
+error: %pre(gitlab-ce-8.17.3-ce.0.el6.x86_64) scriptlet failed, exit status 1
+Error in PREIN scriptlet in rpm package gitlab-ce-8.17.3-ce.0.el6.x86_64
+error:   install: %pre scriptlet failed (2), skipping gitlab-ce-8.17.3-ce.0.el6
+  Installing : thunderbird-45.8.0-1.el6.centos.x86_64                    37/117 
+  Installing : xorg-x11-drv-ati-7.6.1-2.el6.x86_64                       38/117 
+  Installing : openjpeg-libs-1.3-11.el6.x86_64                           39/117 
+  Installing : tzdata-2017a-1.el6.noarch                                 40/117 
+  Installing : jasper-libs-1.900.1-16.el6_6.3.i686                       41/117 
+  Cleanup    : 1:libreoffice-base-4.3.7.2-2.el6_9.1.x86_64               42/117 
+  Cleanup    : 1:libreoffice-ogltrans-4.3.7.2-2.el6_9.1.x86_64           43/117 
+  Cleanup    : 1:libreoffice-headless-4.3.7.2-2.el6_9.1.x86_64           44/117 
+  Cleanup    : 1:libreoffice-impress-4.3.7.2-2.el6_9.1.x86_64            45/117 
+  Cleanup    : 1:libreoffice-calc-4.3.7.2-2.el6_9.1.x86_64               46/117 
+  Cleanup    : 1:libreoffice-math-4.3.7.2-2.el6_9.1.x86_64               47/117 
+  Cleanup    : 1:libreoffice-pdfimport-4.3.7.2-2.el6_9.1.x86_64          48/117 
+  Cleanup    : 1:libreoffice-draw-4.3.7.2-2.el6_9.1.x86_64               49/117 
+  Cleanup    : 1:libreoffice-graphicfilter-4.3.7.2-2.el6_9.1.x86_64      50/117 
+  Cleanup    : 1:libreoffice-wiki-publisher-4.3.7.2-2.el6_9.1.x86_64     51/117 
+  Erasing    : ipa-client-3.0.0-51.el6.centos.x86_64                     52/117 
+  Erasing    : rubygems-1.3.7-5.el6.noarch                               53/117 
+  Erasing    : ruby-rdoc-1.8.7.374-5.el6.x86_64                          54/117 
+  Cleanup    : 1:libreoffice-langpack-de-4.3.7.2-2.el6_9.1.x86_64        55/117 
+  Erasing    : golang-googlecode-sqlite-devel-0-0.8.hg74691fb6f837.el    56/117 
+  Erasing    : golang-bin-1.7.4-1.el6.x86_64                             57/117 
+warning:    erase unlink of /usr/bin/gofmt failed: No such file or directory
+warning:    erase unlink of /usr/bin/go failed: No such file or directory
+  Erasing    : golang-1.7.4-1.el6.x86_64                                 58/117 
+  Cleanup    : 1:libreoffice-langpack-fr-4.3.7.2-2.el6_9.1.x86_64        59/117 
+  Cleanup    : 1:libreoffice-langpack-en-4.3.7.2-2.el6_9.1.x86_64        60/117 
+  Cleanup    : 1:libreoffice-emailmerge-4.3.7.2-2.el6_9.1.x86_64         61/117 
+  Cleanup    : 1:libreoffice-writer-4.3.7.2-2.el6_9.1.x86_64             62/117 
+  Cleanup    : 1:libreoffice-pyuno-4.3.7.2-2.el6_9.1.x86_64              63/117 
+  Cleanup    : 1:libreoffice-langpack-nl-4.3.7.2-2.el6_9.1.x86_64        64/117 
+  Erasing    : ruby-irb-1.8.7.374-5.el6.x86_64                           65/117 
+  Erasing    : ipa-python-3.0.0-51.el6.centos.x86_64                     66/117 
+  Erasing    : gimp-data-extras-2.0.2-3.1.el6.noarch                     67/117 
+  Cleanup    : 1:libreoffice-xsltfilter-4.3.7.2-2.el6_9.1.x86_64         68/117 
+  Cleanup    : 1:libreoffice-core-4.3.7.2-2.el6_9.1.x86_64               69/117 
+  Cleanup    : 1:libreoffice-ure-4.3.7.2-2.el6_9.1.x86_64                70/117 
+  Erasing    : openssl-devel-1.0.1e-57.el6.x86_64                        71/117 
+  Erasing    : gimp-help-2.4.2-5.1.el6.noarch                            72/117 
+  Erasing    : python-lesscpy-0.9j-3.el6.noarch                          73/117 
+  Cleanup    : glibc-debuginfo-2.12-1.209.el6_9.1.x86_64                 74/117 
+  Erasing    : ruby-devel-1.8.7.374-5.el6.x86_64                         75/117 
+  Cleanup    : glibc-debuginfo-common-2.12-1.209.el6_9.1.x86_64          76/117 
+  Erasing    : python-ply-3.4-4.el6.noarch                               77/117 
+  Cleanup    : 1:libreoffice-opensymbol-fonts-4.3.7.2-2.el6_9.1.noarc    78/117 
+  Cleanup    : 1:autocorr-en-4.3.7.2-2.el6_9.1.noarch                    79/117 
+  Erasing    : python-sss-murmur-1.13.3-56.el6.x86_64                    80/117 
+  Cleanup    : 1:autocorr-nl-4.3.7.2-2.el6_9.1.noarch                    81/117 
+  Cleanup    : 1:autocorr-fr-4.3.7.2-2.el6_9.1.noarch                    82/117 
+  Erasing    : golang-src-1.7.4-1.el6.noarch                             83/117 
+  Erasing    : sqlite-devel-3.6.20-1.el6_7.2.x86_64                      84/117 
+  Cleanup    : 1:autocorr-de-4.3.7.2-2.el6_9.1.noarch                    85/117 
+  Cleanup    : thunderbird-52.1.0-1.el6.centos.x86_64                    86/117 
+  Erasing    : kernel-devel-2.6.32-696.1.1.el6.x86_64                    87/117 
+/etc/kernel/prerm.d/dkms: line 14: /dev/fd/62: No such file or directory
+  Erasing    : kernel-2.6.32-696.1.1.el6.x86_64                          88/117 
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/updates failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/modules.order failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/modules.networking failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/modules.modesetting failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/modules.drm failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.1.1.el6.x86_64/modules.block failed: No such file or directory
+  Cleanup    : gitlab-ce-9.2.2-ce.0.el6.x86_64                           89/117 
+warning:    erase unlink of /opt/gitlab/embedded/bin/pg_xlogdump failed: No such file or directory
+warning:    erase unlink of /opt/gitlab/embedded/bin/pg_rewind failed: No such file or directory
+warning:    erase unlink of /opt/gitlab/embedded/bin/pg_recvlogical failed: No such file or directory
+warning:    erase unlink of /opt/gitlab/embedded/bin/pg_isready failed: No such file or directory
+  Erasing    : golang-github-mattn-go-sqlite3-devel-1.0.0-1.el6.noarc    90/117 
+  Cleanup    : jasper-libs-1.900.1-21.el6_9                              91/117 
+  Cleanup    : firefox-52.1.0-2.el6.centos.x86_64                        92/117 
+  Erasing    : go-bindata-0-0.4.git79847ab.el6.x86_64                    93/117 
+  Erasing    : krb5-devel-1.10.3-65.el6.x86_64                           94/117 
+  Cleanup    : 1:java-1.7.0-openjdk-1.7.0.141-2.6.10.1.el6_9.x86_64      95/117 
+  Erasing    : ruby-1.8.7.374-5.el6.x86_64                               96/117 
+  Erasing    : ruby-libs-1.8.7.374-5.el6.x86_64                          97/117 
+  Erasing    : krb5-workstation-1.10.3-65.el6.x86_64                     98/117 
+  Erasing    : 2:gimp-help-browser-2.6.9-9.el6.x86_64                    99/117 
+  Erasing    : gutenprint-plugin-5.2.5-3.el6.x86_64                     100/117 
+  Erasing    : xsane-gimp-0.997-8.el6.x86_64                            101/117 
+  Erasing    : 2:gimp-2.6.9-9.el6.x86_64                                102/117 
+  Erasing    : gegl-0.1.2-6.el6.x86_64                                  103/117 
+  Erasing    : python-matplotlib-0.99.1.2-1.el6.x86_64                  104/117 
+  Erasing    : python-dateutil-1.4.1-7.el6.noarch                       105/117 
+  Cleanup    : jasper-1.900.1-21.el6_9.x86_64                           106/117 
+  Cleanup    : curl-7.19.7-53.el6_9.x86_64                              107/117 
+  Erasing    : python-six-1.9.0-2.el6.noarch                            108/117 
+  Cleanup    : tzdata-2017b-1.el6.noarch                                109/117 
+  Cleanup    : tzdata-java-2017b-1.el6.noarch                           110/117 
+  Cleanup    : libcurl-7.19.7-53.el6_9.x86_64                           111/117 
+  Cleanup    : jasper-libs-1.900.1-21.el6_9                             112/117 
+  Erasing    : dcraw-8.96-1.1.el6.x86_64                                113/117 
+  Erasing    : libkadm5-1.10.3-65.el6.x86_64                            114/117 
+  Erasing    : compat-readline5-5.2-17.1.el6.x86_64                     115/117 
+  Erasing    : memtester-4.2.1-1.el6.x86_64                             116/117 
+  Cleanup    : openjpeg-libs-1.3-16.el6_8.x86_64                        117/117 
+Unable to connect to dbus
+  Verifying  : tzdata-2017a-1.el6.noarch                                  1/117 
+  Verifying  : 1:libreoffice-headless-4.3.7.2-2.el6.x86_64                2/117 
+  Verifying  : 1:libreoffice-langpack-nl-4.3.7.2-2.el6.x86_64             3/117 
+  Verifying  : 1:java-1.7.0-openjdk-1.7.0.131-2.6.9.0.el6_8.x86_64        4/117 
+  Verifying  : libcurl-7.19.7-52.el6.x86_64                               5/117 
+  Verifying  : 1:libreoffice-writer-4.3.7.2-2.el6.x86_64                  6/117 
+  Verifying  : 1:libreoffice-core-4.3.7.2-2.el6.x86_64                    7/117 
+  Verifying  : 1:libreoffice-emailmerge-4.3.7.2-2.el6.x86_64              8/117 
+  Verifying  : 1:libreoffice-opensymbol-fonts-4.3.7.2-2.el6.noarch        9/117 
+  Verifying  : curl-7.19.7-52.el6.x86_64                                 10/117 
+  Verifying  : 1:libreoffice-langpack-en-4.3.7.2-2.el6.x86_64            11/117 
+  Verifying  : glibc-debuginfo-2.12-1.192.el6.x86_64                     12/117 
+  Verifying  : jasper-libs-1.900.1-16.el6_6.3.i686                       13/117 
+  Verifying  : 1:libreoffice-ure-4.3.7.2-2.el6.x86_64                    14/117 
+  Verifying  : openjpeg-libs-1.3-11.el6.x86_64                           15/117 
+  Verifying  : xorg-x11-drv-ati-7.6.1-2.el6.x86_64                       16/117 
+  Verifying  : 1:libreoffice-base-4.3.7.2-2.el6.x86_64                   17/117 
+  Verifying  : 1:libreoffice-graphicfilter-4.3.7.2-2.el6.x86_64          18/117 
+  Verifying  : jasper-1.900.1-16.el6_6.3.x86_64                          19/117 
+  Verifying  : 1:libreoffice-langpack-fr-4.3.7.2-2.el6.x86_64            20/117 
+  Verifying  : 1:libreoffice-calc-4.3.7.2-2.el6.x86_64                   21/117 
+  Verifying  : 1:autocorr-nl-4.3.7.2-2.el6.noarch                        22/117 
+  Verifying  : thunderbird-45.8.0-1.el6.centos.x86_64                    23/117 
+  Verifying  : 1:libreoffice-math-4.3.7.2-2.el6.x86_64                   24/117 
+  Verifying  : tzdata-java-2017a-1.el6.noarch                            25/117 
+  Verifying  : 1:autocorr-fr-4.3.7.2-2.el6.noarch                        26/117 
+  Verifying  : jasper-libs-1.900.1-16.el6_6.3.x86_64                     27/117 
+  Verifying  : firefox-45.8.0-2.el6.centos.x86_64                        28/117 
+  Verifying  : 1:libreoffice-ogltrans-4.3.7.2-2.el6.x86_64               29/117 
+  Verifying  : 1:libreoffice-langpack-de-4.3.7.2-2.el6.x86_64            30/117 
+  Verifying  : xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch              31/117 
+  Verifying  : 1:libreoffice-wiki-publisher-4.3.7.2-2.el6.x86_64         32/117 
+  Verifying  : glibc-debuginfo-common-2.12-1.192.el6.x86_64              33/117 
+  Verifying  : 1:libreoffice-draw-4.3.7.2-2.el6.x86_64                   34/117 
+  Verifying  : 1:libreoffice-impress-4.3.7.2-2.el6.x86_64                35/117 
+  Verifying  : 1:autocorr-de-4.3.7.2-2.el6.noarch                        36/117 
+  Verifying  : 1:libreoffice-pdfimport-4.3.7.2-2.el6.x86_64              37/117 
+  Verifying  : 1:libreoffice-xsltfilter-4.3.7.2-2.el6.x86_64             38/117 
+  Verifying  : 1:autocorr-en-4.3.7.2-2.el6.noarch                        39/117 
+  Verifying  : 1:libreoffice-pyuno-4.3.7.2-2.el6.x86_64                  40/117 
+  Verifying  : python-six-1.9.0-2.el6.noarch                             41/117 
+  Verifying  : python-sss-murmur-1.13.3-56.el6.x86_64                    42/117 
+  Verifying  : 1:libreoffice-core-4.3.7.2-2.el6_9.1.x86_64               43/117 
+  Verifying  : krb5-devel-1.10.3-65.el6.x86_64                           44/117 
+  Verifying  : openjpeg-libs-1.3-16.el6_8.x86_64                         45/117 
+  Verifying  : 1:libreoffice-ure-4.3.7.2-2.el6_9.1.x86_64                46/117 
+  Verifying  : go-bindata-0-0.4.git79847ab.el6.x86_64                    47/117 
+  Verifying  : dcraw-8.96-1.1.el6.x86_64                                 48/117 
+  Verifying  : 1:java-1.7.0-openjdk-1.7.0.141-2.6.10.1.el6_9.x86_64      49/117 
+  Verifying  : firefox-52.1.0-2.el6.centos.x86_64                        50/117 
+  Verifying  : python-dateutil-1.4.1-7.el6.noarch                        51/117 
+  Verifying  : rubygems-1.3.7-5.el6.noarch                               52/117 
+  Verifying  : ruby-devel-1.8.7.374-5.el6.x86_64                         53/117 
+  Verifying  : 1:libreoffice-pyuno-4.3.7.2-2.el6_9.1.x86_64              54/117 
+  Verifying  : golang-src-1.7.4-1.el6.noarch                             55/117 
+  Verifying  : python-lesscpy-0.9j-3.el6.noarch                          56/117 
+  Verifying  : 2:gimp-2.6.9-9.el6.x86_64                                 57/117 
+  Verifying  : 1:libreoffice-math-4.3.7.2-2.el6_9.1.x86_64               58/117 
+  Verifying  : jasper-libs-1.900.1-21.el6_9.x86_64                       59/117 
+  Verifying  : 1:autocorr-fr-4.3.7.2-2.el6_9.1.noarch                    60/117 
+  Verifying  : 1:libreoffice-graphicfilter-4.3.7.2-2.el6_9.1.x86_64      61/117 
+  Verifying  : golang-github-mattn-go-sqlite3-devel-1.0.0-1.el6.noarc    62/117 
+  Verifying  : gimp-help-2.4.2-5.1.el6.noarch                            63/117 
+  Verifying  : tzdata-2017b-1.el6.noarch                                 64/117 
+  Verifying  : 1:libreoffice-langpack-fr-4.3.7.2-2.el6_9.1.x86_64        65/117 
+  Verifying  : 1:autocorr-en-4.3.7.2-2.el6_9.1.noarch                    66/117 
+  Verifying  : openssl-devel-1.0.1e-57.el6.x86_64                        67/117 
+  Verifying  : 1:libreoffice-base-4.3.7.2-2.el6_9.1.x86_64               68/117 
+  Verifying  : gitlab-ce-9.2.2-ce.0.el6.x86_64                           69/117 
+  Verifying  : kernel-2.6.32-696.1.1.el6.x86_64                          70/117 
+  Verifying  : 1:libreoffice-xsltfilter-4.3.7.2-2.el6_9.1.x86_64         71/117 
+  Verifying  : ipa-client-3.0.0-51.el6.centos.x86_64                     72/117 
+  Verifying  : golang-googlecode-sqlite-devel-0-0.8.hg74691fb6f837.el    73/117 
+  Verifying  : 1:libreoffice-langpack-en-4.3.7.2-2.el6_9.1.x86_64        74/117 
+  Verifying  : kernel-devel-2.6.32-696.1.1.el6.x86_64                    75/117 
+  Verifying  : gegl-0.1.2-6.el6.x86_64                                   76/117 
+  Verifying  : libcurl-7.19.7-53.el6_9.x86_64                            77/117 
+  Verifying  : glibc-debuginfo-2.12-1.209.el6_9.1.x86_64                 78/117 
+  Verifying  : ruby-rdoc-1.8.7.374-5.el6.x86_64                          79/117 
+  Verifying  : ruby-libs-1.8.7.374-5.el6.x86_64                          80/117 
+  Verifying  : python-matplotlib-0.99.1.2-1.el6.x86_64                   81/117 
+  Verifying  : gitlab-ce-8.17.3-ce.0.el6.x86_64                          82/117 
+  Verifying  : thunderbird-52.1.0-1.el6.centos.x86_64                    83/117 
+  Verifying  : krb5-workstation-1.10.3-65.el6.x86_64                     84/117 
+  Verifying  : 1:autocorr-de-4.3.7.2-2.el6_9.1.noarch                    85/117 
+  Verifying  : xsane-gimp-0.997-8.el6.x86_64                             86/117 
+  Verifying  : 1:libreoffice-writer-4.3.7.2-2.el6_9.1.x86_64             87/117 
+  Verifying  : compat-readline5-5.2-17.1.el6.x86_64                      88/117 
+  Verifying  : curl-7.19.7-53.el6_9.x86_64                               89/117 
+  Verifying  : 1:autocorr-nl-4.3.7.2-2.el6_9.1.noarch                    90/117 
+  Verifying  : gimp-data-extras-2.0.2-3.1.el6.noarch                     91/117 
+  Verifying  : sqlite-devel-3.6.20-1.el6_7.2.x86_64                      92/117 
+  Verifying  : golang-bin-1.7.4-1.el6.x86_64                             93/117 
+  Verifying  : 1:libreoffice-draw-4.3.7.2-2.el6_9.1.x86_64               94/117 
+  Verifying  : gutenprint-plugin-5.2.5-3.el6.x86_64                      95/117 
+  Verifying  : 1:libreoffice-impress-4.3.7.2-2.el6_9.1.x86_64            96/117 
+  Verifying  : 1:libreoffice-ogltrans-4.3.7.2-2.el6_9.1.x86_64           97/117 
+  Verifying  : 1:libreoffice-langpack-de-4.3.7.2-2.el6_9.1.x86_64        98/117 
+  Verifying  : 1:libreoffice-wiki-publisher-4.3.7.2-2.el6_9.1.x86_64     99/117 
+  Verifying  : jasper-1.900.1-21.el6_9.x86_64                           100/117 
+  Verifying  : tzdata-java-2017b-1.el6.noarch                           101/117 
+  Verifying  : golang-1.7.4-1.el6.x86_64                                102/117 
+  Verifying  : 1:libreoffice-langpack-nl-4.3.7.2-2.el6_9.1.x86_64       103/117 
+  Verifying  : python-ply-3.4-4.el6.noarch                              104/117 
+  Verifying  : memtester-4.2.1-1.el6.x86_64                             105/117 
+  Verifying  : ipa-python-3.0.0-51.el6.centos.x86_64                    106/117 
+  Verifying  : 1:libreoffice-opensymbol-fonts-4.3.7.2-2.el6_9.1.noarc   107/117 
+  Verifying  : 1:libreoffice-emailmerge-4.3.7.2-2.el6_9.1.x86_64        108/117 
+  Verifying  : 2:gimp-help-browser-2.6.9-9.el6.x86_64                   109/117 
+  Verifying  : 1:libreoffice-pdfimport-4.3.7.2-2.el6_9.1.x86_64         110/117 
+  Verifying  : jasper-libs-1.900.1-21.el6_9.i686                        111/117 
+  Verifying  : 1:libreoffice-calc-4.3.7.2-2.el6_9.1.x86_64              112/117 
+  Verifying  : 1:libreoffice-headless-4.3.7.2-2.el6_9.1.x86_64          113/117 
+  Verifying  : libkadm5-1.10.3-65.el6.x86_64                            114/117 
+  Verifying  : ruby-1.8.7.374-5.el6.x86_64                              115/117 
+  Verifying  : ruby-irb-1.8.7.374-5.el6.x86_64                          116/117 
+  Verifying  : glibc-debuginfo-common-2.12-1.209.el6_9.1.x86_64         117/117 
+
+Removed:
+  autocorr-de.noarch 1:4.3.7.2-2.el6_9.1                                        
+  autocorr-en.noarch 1:4.3.7.2-2.el6_9.1                                        
+  autocorr-fr.noarch 1:4.3.7.2-2.el6_9.1                                        
+  autocorr-nl.noarch 1:4.3.7.2-2.el6_9.1                                        
+  compat-readline5.x86_64 0:5.2-17.1.el6                                        
+  curl.x86_64 0:7.19.7-53.el6_9                                                 
+  dcraw.x86_64 0:8.96-1.1.el6                                                   
+  firefox.x86_64 0:52.1.0-2.el6.centos                                          
+  gitlab-ce.x86_64 0:9.2.2-ce.0.el6                                             
+  glibc-debuginfo.x86_64 0:2.12-1.209.el6_9.1                                   
+  glibc-debuginfo-common.x86_64 0:2.12-1.209.el6_9.1                            
+  go-bindata.x86_64 0:0-0.4.git79847ab.el6                                      
+  golang.x86_64 0:1.7.4-1.el6                                                   
+  golang-bin.x86_64 0:1.7.4-1.el6                                               
+  golang-github-mattn-go-sqlite3-devel.noarch 0:1.0.0-1.el6                     
+  golang-googlecode-sqlite-devel.x86_64 0:0-0.8.hg74691fb6f837.el6              
+  golang-src.noarch 0:1.7.4-1.el6                                               
+  jasper.x86_64 0:1.900.1-21.el6_9                                              
+  jasper-libs.i686 0:1.900.1-21.el6_9                                           
+  jasper-libs.x86_64 0:1.900.1-21.el6_9                                         
+  java-1.7.0-openjdk.x86_64 1:1.7.0.141-2.6.10.1.el6_9                          
+  kernel.x86_64 0:2.6.32-696.1.1.el6                                            
+  kernel-devel.x86_64 0:2.6.32-696.1.1.el6                                      
+  libcurl.x86_64 0:7.19.7-53.el6_9                                              
+  libkadm5.x86_64 0:1.10.3-65.el6                                               
+  libreoffice-base.x86_64 1:4.3.7.2-2.el6_9.1                                   
+  libreoffice-calc.x86_64 1:4.3.7.2-2.el6_9.1                                   
+  libreoffice-core.x86_64 1:4.3.7.2-2.el6_9.1                                   
+  libreoffice-draw.x86_64 1:4.3.7.2-2.el6_9.1                                   
+  libreoffice-emailmerge.x86_64 1:4.3.7.2-2.el6_9.1                             
+  libreoffice-graphicfilter.x86_64 1:4.3.7.2-2.el6_9.1                          
+  libreoffice-headless.x86_64 1:4.3.7.2-2.el6_9.1                               
+  libreoffice-impress.x86_64 1:4.3.7.2-2.el6_9.1                                
+  libreoffice-langpack-de.x86_64 1:4.3.7.2-2.el6_9.1                            
+  libreoffice-langpack-en.x86_64 1:4.3.7.2-2.el6_9.1                            
+  libreoffice-langpack-fr.x86_64 1:4.3.7.2-2.el6_9.1                            
+  libreoffice-langpack-nl.x86_64 1:4.3.7.2-2.el6_9.1                            
+  libreoffice-math.x86_64 1:4.3.7.2-2.el6_9.1                                   
+  libreoffice-ogltrans.x86_64 1:4.3.7.2-2.el6_9.1                               
+  libreoffice-opensymbol-fonts.noarch 1:4.3.7.2-2.el6_9.1                       
+  libreoffice-pdfimport.x86_64 1:4.3.7.2-2.el6_9.1                              
+  libreoffice-pyuno.x86_64 1:4.3.7.2-2.el6_9.1                                  
+  libreoffice-ure.x86_64 1:4.3.7.2-2.el6_9.1                                    
+  libreoffice-wiki-publisher.x86_64 1:4.3.7.2-2.el6_9.1                         
+  libreoffice-writer.x86_64 1:4.3.7.2-2.el6_9.1                                 
+  libreoffice-xsltfilter.x86_64 1:4.3.7.2-2.el6_9.1                             
+  memtester.x86_64 0:4.2.1-1.el6                                                
+  openjpeg-libs.x86_64 0:1.3-16.el6_8                                           
+  python-lesscpy.noarch 0:0.9j-3.el6                                            
+  python-ply.noarch 0:3.4-4.el6                                                 
+  python-six.noarch 0:1.9.0-2.el6                                               
+  python-sss-murmur.x86_64 0:1.13.3-56.el6                                      
+  ruby.x86_64 0:1.8.7.374-5.el6                                                 
+  ruby-devel.x86_64 0:1.8.7.374-5.el6                                           
+  ruby-irb.x86_64 0:1.8.7.374-5.el6                                             
+  ruby-libs.x86_64 0:1.8.7.374-5.el6                                            
+  ruby-rdoc.x86_64 0:1.8.7.374-5.el6                                            
+  rubygems.noarch 0:1.3.7-5.el6                                                 
+  sqlite-devel.x86_64 0:3.6.20-1.el6_7.2                                        
+  thunderbird.x86_64 0:52.1.0-1.el6.centos                                      
+  tzdata.noarch 0:2017b-1.el6                                                   
+  tzdata-java.noarch 0:2017b-1.el6                                              
+
+Dependency Removed:
+  gegl.x86_64 0:0.1.2-6.el6                                                     
+  gimp.x86_64 2:2.6.9-9.el6                                                     
+  gimp-data-extras.noarch 0:2.0.2-3.1.el6                                       
+  gimp-help.noarch 0:2.4.2-5.1.el6                                              
+  gimp-help-browser.x86_64 2:2.6.9-9.el6                                        
+  gutenprint-plugin.x86_64 0:5.2.5-3.el6                                        
+  ipa-client.x86_64 0:3.0.0-51.el6.centos                                       
+  ipa-python.x86_64 0:3.0.0-51.el6.centos                                       
+  krb5-devel.x86_64 0:1.10.3-65.el6                                             
+  krb5-workstation.x86_64 0:1.10.3-65.el6                                       
+  openssl-devel.x86_64 0:1.0.1e-57.el6                                          
+  python-dateutil.noarch 0:1.4.1-7.el6                                          
+  python-matplotlib.x86_64 0:0.99.1.2-1.el6                                     
+  xsane-gimp.x86_64 0:0.997-8.el6                                               
+
+Installed:
+  autocorr-de.noarch 1:4.3.7.2-2.el6                                            
+  autocorr-en.noarch 1:4.3.7.2-2.el6                                            
+  autocorr-fr.noarch 1:4.3.7.2-2.el6                                            
+  autocorr-nl.noarch 1:4.3.7.2-2.el6                                            
+  curl.x86_64 0:7.19.7-52.el6                                                   
+  firefox.x86_64 0:45.8.0-2.el6.centos                                          
+  glibc-debuginfo.x86_64 0:2.12-1.192.el6                                       
+  glibc-debuginfo-common.x86_64 0:2.12-1.192.el6                                
+  jasper.x86_64 0:1.900.1-16.el6_6.3                                            
+  jasper-libs.i686 0:1.900.1-16.el6_6.3                                         
+  jasper-libs.x86_64 0:1.900.1-16.el6_6.3                                       
+  java-1.7.0-openjdk.x86_64 1:1.7.0.131-2.6.9.0.el6_8                           
+  libcurl.x86_64 0:7.19.7-52.el6                                                
+  libreoffice-base.x86_64 1:4.3.7.2-2.el6                                       
+  libreoffice-calc.x86_64 1:4.3.7.2-2.el6                                       
+  libreoffice-core.x86_64 1:4.3.7.2-2.el6                                       
+  libreoffice-draw.x86_64 1:4.3.7.2-2.el6                                       
+  libreoffice-emailmerge.x86_64 1:4.3.7.2-2.el6                                 
+  libreoffice-graphicfilter.x86_64 1:4.3.7.2-2.el6                              
+  libreoffice-headless.x86_64 1:4.3.7.2-2.el6                                   
+  libreoffice-impress.x86_64 1:4.3.7.2-2.el6                                    
+  libreoffice-langpack-de.x86_64 1:4.3.7.2-2.el6                                
+  libreoffice-langpack-en.x86_64 1:4.3.7.2-2.el6                                
+  libreoffice-langpack-fr.x86_64 1:4.3.7.2-2.el6                                
+  libreoffice-langpack-nl.x86_64 1:4.3.7.2-2.el6                                
+  libreoffice-math.x86_64 1:4.3.7.2-2.el6                                       
+  libreoffice-ogltrans.x86_64 1:4.3.7.2-2.el6                                   
+  libreoffice-opensymbol-fonts.noarch 1:4.3.7.2-2.el6                           
+  libreoffice-pdfimport.x86_64 1:4.3.7.2-2.el6                                  
+  libreoffice-pyuno.x86_64 1:4.3.7.2-2.el6                                      
+  libreoffice-ure.x86_64 1:4.3.7.2-2.el6                                        
+  libreoffice-wiki-publisher.x86_64 1:4.3.7.2-2.el6                             
+  libreoffice-writer.x86_64 1:4.3.7.2-2.el6                                     
+  libreoffice-xsltfilter.x86_64 1:4.3.7.2-2.el6                                 
+  openjpeg-libs.x86_64 0:1.3-11.el6                                             
+  thunderbird.x86_64 0:45.8.0-1.el6.centos                                      
+  tzdata.noarch 0:2017a-1.el6                                                   
+  tzdata-java.noarch 0:2017a-1.el6                                              
+  xorg-x11-drv-ati.x86_64 0:7.6.1-2.el6                                         
+  xorg-x11-drv-ati-firmware.noarch 0:7.6.1-2.el6                                
+
+Failed:
+  gitlab-ce.x86_64 0:8.17.3-ce.0.el6                                            
+
+Complete!
