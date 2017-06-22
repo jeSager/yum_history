@@ -1,0 +1,215 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Undoing transaction 101, from Mon Jun 12 18:31:57 2017
+Loading mirror speeds from cached hostfile
+ * base: mirror.sjc02.svwh.net
+ * epel: mirror.cs.princeton.edu
+ * epel-debuginfo: mirror.cs.princeton.edu
+ * extras: mirror.beyondhosting.net
+ * updates: mirror.chpc.utah.edu
+Only Upgrade available on package: gitlab-ce-9.2.2-ce.0.el6.x86_64
+Failed to downgrade: python34-3.4.5-1.el6.x86_64
+Failed to downgrade: python34-libs-3.4.5-1.el6.x86_64
+ ** Updated cups-1:1.4.2-77.el6.x86_64                     @?base
+    Update       1:1.4.2-78.el6_9.x86_64                   @updates
+ ** Updated cups-libs-1:1.4.2-77.el6.i686                  @?base
+ ** Updated cups-libs-1:1.4.2-77.el6.x86_64                @?base
+    Update            1:1.4.2-78.el6_9.i686                @updates
+    Update            1:1.4.2-78.el6_9.x86_64              @updates
+ ** Updated gitlab-ce-9.2.2-ce.0.el6.x86_64                installed
+ ** Update            9.2.5-ce.0.el6.x86_64                @?gitlab_gitlab-ce
+ ** Updated initscripts-9.03.58-1.el6.centos.x86_64        @?base
+    Update              9.03.58-1.el6.centos.1.x86_64      @updates
+ ** Erase   kernel-2.6.32-573.7.1.el6.x86_64               ?
+    Install kernel-2.6.32-696.3.1.el6.x86_64               @updates
+ ** Erase   kernel-devel-2.6.32-573.7.1.el6.x86_64         ?
+    Install kernel-devel-2.6.32-696.3.1.el6.x86_64         @updates
+ ** Updated kernel-firmware-2.6.32-696.1.1.el6.noarch      @?updates
+    Update                  2.6.32-696.3.1.el6.noarch      @updates
+ ** Updated kernel-headers-2.6.32-696.1.1.el6.x86_64       @?updates
+    Update                 2.6.32-696.3.1.el6.x86_64       @updates
+ ** Updated nss-3.28.4-1.el6_9.i686                        @?updates
+ ** Updated nss-3.28.4-1.el6_9.x86_64                      @?updates
+    Update      3.28.4-3.el6_9.i686                        @updates
+    Update      3.28.4-3.el6_9.x86_64                      @updates
+ ** Updated nss-sysinit-3.28.4-1.el6_9.x86_64              @?updates
+    Update              3.28.4-3.el6_9.x86_64              @updates
+ ** Updated nss-tools-3.28.4-1.el6_9.x86_64                @?updates
+    Update            3.28.4-3.el6_9.x86_64                @updates
+ ** Updated python34-3.4.5-1.el6.x86_64                    @epel
+    Update           3.4.5-2.el6.x86_64                    @epel
+ ** Updated python34-libs-3.4.5-1.el6.x86_64               @epel
+    Update                3.4.5-2.el6.x86_64               @epel
+ ** Updated sudo-1.8.6p3-27.el6.x86_64                     @?base
+    Update       1.8.6p3-28.el6_9.x86_64                   @updates
+ ** Updated xorg-x11-drv-ati-7.6.1-2.el6.x86_64            @base
+    Update                   7.6.1-3.el6_9.x86_64          @updates
+ ** Updated xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch   @base
+    Update                            7.6.1-3.el6_9.noarch @updates
+Resolving Dependencies
+--> Running transaction check
+---> Package cups.x86_64 1:1.4.2-77.el6 will be a downgrade
+---> Package cups.x86_64 1:1.4.2-78.el6_9 will be erased
+---> Package cups-libs.i686 1:1.4.2-77.el6 will be a downgrade
+---> Package cups-libs.x86_64 1:1.4.2-77.el6 will be a downgrade
+---> Package cups-libs.i686 1:1.4.2-78.el6_9 will be erased
+---> Package cups-libs.x86_64 1:1.4.2-78.el6_9 will be erased
+---> Package initscripts.x86_64 0:9.03.58-1.el6.centos will be a downgrade
+---> Package initscripts.x86_64 0:9.03.58-1.el6.centos.1 will be erased
+---> Package kernel.x86_64 0:2.6.32-696.3.1.el6 will be erased
+---> Package kernel-devel.x86_64 0:2.6.32-696.3.1.el6 will be erased
+---> Package kernel-firmware.noarch 0:2.6.32-696.1.1.el6 will be a downgrade
+---> Package kernel-firmware.noarch 0:2.6.32-696.3.1.el6 will be erased
+---> Package kernel-headers.x86_64 0:2.6.32-696.1.1.el6 will be a downgrade
+---> Package kernel-headers.x86_64 0:2.6.32-696.3.1.el6 will be erased
+---> Package nss.i686 0:3.28.4-1.el6_9 will be a downgrade
+---> Package nss.x86_64 0:3.28.4-1.el6_9 will be a downgrade
+---> Package nss.i686 0:3.28.4-3.el6_9 will be erased
+---> Package nss.x86_64 0:3.28.4-3.el6_9 will be erased
+---> Package nss-sysinit.x86_64 0:3.28.4-1.el6_9 will be a downgrade
+---> Package nss-sysinit.x86_64 0:3.28.4-3.el6_9 will be erased
+---> Package nss-tools.x86_64 0:3.28.4-1.el6_9 will be a downgrade
+---> Package nss-tools.x86_64 0:3.28.4-3.el6_9 will be erased
+---> Package sudo.x86_64 0:1.8.6p3-27.el6 will be a downgrade
+---> Package sudo.x86_64 0:1.8.6p3-28.el6_9 will be erased
+---> Package xorg-x11-drv-ati.x86_64 0:7.6.1-2.el6 will be a downgrade
+---> Package xorg-x11-drv-ati.x86_64 0:7.6.1-3.el6_9 will be erased
+---> Package xorg-x11-drv-ati-firmware.noarch 0:7.6.1-2.el6 will be a downgrade
+---> Package xorg-x11-drv-ati-firmware.noarch 0:7.6.1-3.el6_9 will be erased
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                     Arch     Version                  Repository  Size
+================================================================================
+Removing:
+ kernel                      x86_64   2.6.32-696.3.1.el6       @updates   131 M
+ kernel-devel                x86_64   2.6.32-696.3.1.el6       @updates    26 M
+Downgrading:
+ cups                        x86_64   1:1.4.2-77.el6           base       2.3 M
+ cups-libs                   i686     1:1.4.2-77.el6           base       332 k
+ cups-libs                   x86_64   1:1.4.2-77.el6           base       322 k
+ initscripts                 x86_64   9.03.58-1.el6.centos     base       949 k
+ kernel-firmware             noarch   2.6.32-696.1.1.el6       updates     29 M
+ kernel-headers              x86_64   2.6.32-696.1.1.el6       updates    4.5 M
+ nss                         i686     3.28.4-1.el6_9           updates    883 k
+ nss                         x86_64   3.28.4-1.el6_9           updates    880 k
+ nss-sysinit                 x86_64   3.28.4-1.el6_9           updates     51 k
+ nss-tools                   x86_64   3.28.4-1.el6_9           updates    446 k
+ sudo                        x86_64   1.8.6p3-27.el6           base       711 k
+ xorg-x11-drv-ati            x86_64   7.6.1-2.el6              base       169 k
+ xorg-x11-drv-ati-firmware   noarch   7.6.1-2.el6              base       1.2 M
+
+Transaction Summary
+================================================================================
+Remove        2 Package(s)
+Downgrade    13 Package(s)
+
+Total size: 41 M
+Total download size: 1.3 M
+Is this ok [y/N]: Downloading Packages:
+--------------------------------------------------------------------------------
+Total                                           1.3 MB/s | 1.3 MB     00:01     
+Running rpm_check_debug
+Running Transaction Test
+Transaction Test Succeeded
+Running Transaction
+  Installing : nss-3.28.4-1.el6_9.x86_64                                   1/28 
+  Installing : nss-sysinit-3.28.4-1.el6_9.x86_64                           2/28 
+  Installing : initscripts-9.03.58-1.el6.centos.x86_64                     3/28 
+  Installing : 1:cups-libs-1.4.2-77.el6.x86_64                             4/28 
+  Installing : 1:cups-1.4.2-77.el6.x86_64                                  5/28 
+  Installing : nss-tools-3.28.4-1.el6_9.x86_64                             6/28 
+  Installing : kernel-headers-2.6.32-696.1.1.el6.x86_64                    7/28 
+  Installing : xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch                8/28 
+  Installing : sudo-1.8.6p3-27.el6.x86_64                                  9/28 
+  Installing : kernel-firmware-2.6.32-696.1.1.el6.noarch                  10/28 
+  Installing : xorg-x11-drv-ati-7.6.1-2.el6.x86_64                        11/28 
+  Installing : nss-3.28.4-1.el6_9.i686                                    12/28 
+  Installing : 1:cups-libs-1.4.2-77.el6.i686                              13/28 
+  Cleanup    : nss-3.28.4-3.el6_9                                         14/28 
+  Cleanup    : 1:cups-1.4.2-78.el6_9.x86_64                               15/28 
+  Cleanup    : xorg-x11-drv-ati-7.6.1-3.el6_9.x86_64                      16/28 
+/etc/kernel/prerm.d/dkms: line 14: /dev/fd/62: No such file or directory
+  Erasing    : kernel-2.6.32-696.3.1.el6.x86_64                           17/28 
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/updates failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/modules.order failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/modules.networking failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/modules.modesetting failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/modules.drm failed: No such file or directory
+warning:    erase unlink of /lib/modules/2.6.32-696.3.1.el6.x86_64/modules.block failed: No such file or directory
+  Cleanup    : nss-tools-3.28.4-3.el6_9.x86_64                            18/28 
+  Cleanup    : kernel-firmware-2.6.32-696.3.1.el6.noarch                  19/28 
+  Cleanup    : xorg-x11-drv-ati-firmware-7.6.1-3.el6_9.noarch             20/28 
+  Cleanup    : kernel-headers-2.6.32-696.3.1.el6.x86_64                   21/28 
+  Cleanup    : 1:cups-libs-1.4.2-78.el6_9                                 22/28 
+  Erasing    : kernel-devel-2.6.32-696.3.1.el6.x86_64                     23/28 
+  Cleanup    : nss-sysinit-3.28.4-3.el6_9.x86_64                          24/28 
+  Cleanup    : nss-3.28.4-3.el6_9                                         25/28 
+  Cleanup    : initscripts-9.03.58-1.el6.centos.1.x86_64                  26/28 
+  Cleanup    : 1:cups-libs-1.4.2-78.el6_9                                 27/28 
+  Cleanup    : sudo-1.8.6p3-28.el6_9.x86_64                               28/28 
+Unable to connect to dbus
+  Verifying  : nss-tools-3.28.4-1.el6_9.x86_64                             1/28 
+  Verifying  : nss-3.28.4-1.el6_9.i686                                     2/28 
+  Verifying  : xorg-x11-drv-ati-7.6.1-2.el6.x86_64                         3/28 
+  Verifying  : 1:cups-libs-1.4.2-77.el6.i686                               4/28 
+  Verifying  : kernel-firmware-2.6.32-696.1.1.el6.noarch                   5/28 
+  Verifying  : 1:cups-libs-1.4.2-77.el6.x86_64                             6/28 
+  Verifying  : nss-sysinit-3.28.4-1.el6_9.x86_64                           7/28 
+  Verifying  : sudo-1.8.6p3-27.el6.x86_64                                  8/28 
+  Verifying  : 1:cups-1.4.2-77.el6.x86_64                                  9/28 
+  Verifying  : initscripts-9.03.58-1.el6.centos.x86_64                    10/28 
+  Verifying  : xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch               11/28 
+  Verifying  : kernel-headers-2.6.32-696.1.1.el6.x86_64                   12/28 
+  Verifying  : nss-3.28.4-1.el6_9.x86_64                                  13/28 
+  Verifying  : kernel-devel-2.6.32-696.3.1.el6.x86_64                     14/28 
+  Verifying  : kernel-2.6.32-696.3.1.el6.x86_64                           15/28 
+  Verifying  : initscripts-9.03.58-1.el6.centos.1.x86_64                  16/28 
+  Verifying  : 1:cups-1.4.2-78.el6_9.x86_64                               17/28 
+  Verifying  : xorg-x11-drv-ati-7.6.1-3.el6_9.x86_64                      18/28 
+  Verifying  : nss-sysinit-3.28.4-3.el6_9.x86_64                          19/28 
+  Verifying  : kernel-headers-2.6.32-696.3.1.el6.x86_64                   20/28 
+  Verifying  : kernel-firmware-2.6.32-696.3.1.el6.noarch                  21/28 
+  Verifying  : 1:cups-libs-1.4.2-78.el6_9.i686                            22/28 
+  Verifying  : xorg-x11-drv-ati-firmware-7.6.1-3.el6_9.noarch             23/28 
+  Verifying  : 1:cups-libs-1.4.2-78.el6_9.x86_64                          24/28 
+  Verifying  : nss-3.28.4-3.el6_9.i686                                    25/28 
+  Verifying  : sudo-1.8.6p3-28.el6_9.x86_64                               26/28 
+  Verifying  : nss-tools-3.28.4-3.el6_9.x86_64                            27/28 
+  Verifying  : nss-3.28.4-3.el6_9.x86_64                                  28/28 
+
+Removed:
+  cups.x86_64 1:1.4.2-78.el6_9                                                  
+  cups-libs.i686 1:1.4.2-78.el6_9                                               
+  cups-libs.x86_64 1:1.4.2-78.el6_9                                             
+  initscripts.x86_64 0:9.03.58-1.el6.centos.1                                   
+  kernel.x86_64 0:2.6.32-696.3.1.el6                                            
+  kernel-devel.x86_64 0:2.6.32-696.3.1.el6                                      
+  kernel-firmware.noarch 0:2.6.32-696.3.1.el6                                   
+  kernel-headers.x86_64 0:2.6.32-696.3.1.el6                                    
+  nss.i686 0:3.28.4-3.el6_9                                                     
+  nss.x86_64 0:3.28.4-3.el6_9                                                   
+  nss-sysinit.x86_64 0:3.28.4-3.el6_9                                           
+  nss-tools.x86_64 0:3.28.4-3.el6_9                                             
+  sudo.x86_64 0:1.8.6p3-28.el6_9                                                
+  xorg-x11-drv-ati.x86_64 0:7.6.1-3.el6_9                                       
+  xorg-x11-drv-ati-firmware.noarch 0:7.6.1-3.el6_9                              
+
+Installed:
+  cups.x86_64 1:1.4.2-77.el6                                                    
+  cups-libs.i686 1:1.4.2-77.el6                                                 
+  cups-libs.x86_64 1:1.4.2-77.el6                                               
+  initscripts.x86_64 0:9.03.58-1.el6.centos                                     
+  kernel-firmware.noarch 0:2.6.32-696.1.1.el6                                   
+  kernel-headers.x86_64 0:2.6.32-696.1.1.el6                                    
+  nss.i686 0:3.28.4-1.el6_9                                                     
+  nss.x86_64 0:3.28.4-1.el6_9                                                   
+  nss-sysinit.x86_64 0:3.28.4-1.el6_9                                           
+  nss-tools.x86_64 0:3.28.4-1.el6_9                                             
+  sudo.x86_64 0:1.8.6p3-27.el6                                                  
+  xorg-x11-drv-ati.x86_64 0:7.6.1-2.el6                                         
+  xorg-x11-drv-ati-firmware.noarch 0:7.6.1-2.el6                                
+
+Complete!
