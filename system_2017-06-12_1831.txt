@@ -1,0 +1,136 @@
+Loaded plugins: auto-update-debuginfo, dellsysid, fastestmirror, refresh-
+              : packagekit, security
+Transaction ID : 101
+Begin time     : Mon Jun 12 18:31:57 2017
+Begin rpmdb    : 1865:b6b57773721b7c8e3ab978522c84abffe1f2a508
+End time       :            18:35:12 2017 (195 seconds)
+End rpmdb      : 1865:af1231b563bd6a2b6370ec791802362e48c98183
+User           : System <unset>
+Return-Code    : Failure: 1
+Command Line   : update --skip-broken
+Transaction performed with:
+    Installed     rpm-4.8.0-55.el6.x86_64                                @base
+    Installed     yum-3.2.29-81.el6.centos.noarch                        installed
+    Installed     yum-metadata-parser-1.1.2-16.el6.x86_64                @base/$releasever
+    Installed     yum-plugin-auto-update-debug-info-1.1.30-40.el6.noarch installed
+    Installed     yum-plugin-fastestmirror-1.1.30-40.el6.noarch          installed
+Packages Altered:
+Loading mirror speeds from cached hostfile
+ * base: mirror.sjc02.svwh.net
+ * epel: mirror.cs.princeton.edu
+ * epel-debuginfo: mirror.cs.princeton.edu
+ * extras: mirror.beyondhosting.net
+ * updates: mirror.chpc.utah.edu
+ ** Updated cups-1:1.4.2-77.el6.x86_64                     @?base
+    Update       1:1.4.2-78.el6_9.x86_64                   @updates
+ ** Updated cups-libs-1:1.4.2-77.el6.i686                  @?base
+ ** Updated cups-libs-1:1.4.2-77.el6.x86_64                @?base
+    Update            1:1.4.2-78.el6_9.i686                @updates
+    Update            1:1.4.2-78.el6_9.x86_64              @updates
+ ** Updated gitlab-ce-9.2.2-ce.0.el6.x86_64                installed
+ ** Update            9.2.5-ce.0.el6.x86_64                @?gitlab_gitlab-ce
+ ** Updated initscripts-9.03.58-1.el6.centos.x86_64        @?base
+    Update              9.03.58-1.el6.centos.1.x86_64      @updates
+ ** Erase   kernel-2.6.32-573.7.1.el6.x86_64               ?
+    Install kernel-2.6.32-696.3.1.el6.x86_64               @updates
+ ** Erase   kernel-devel-2.6.32-573.7.1.el6.x86_64         ?
+    Install kernel-devel-2.6.32-696.3.1.el6.x86_64         @updates
+ ** Updated kernel-firmware-2.6.32-696.1.1.el6.noarch      @?updates
+    Update                  2.6.32-696.3.1.el6.noarch      @updates
+ ** Updated kernel-headers-2.6.32-696.1.1.el6.x86_64       @?updates
+    Update                 2.6.32-696.3.1.el6.x86_64       @updates
+ ** Updated nss-3.28.4-1.el6_9.i686                        @?updates
+ ** Updated nss-3.28.4-1.el6_9.x86_64                      @?updates
+    Update      3.28.4-3.el6_9.i686                        @updates
+    Update      3.28.4-3.el6_9.x86_64                      @updates
+ ** Updated nss-sysinit-3.28.4-1.el6_9.x86_64              @?updates
+    Update              3.28.4-3.el6_9.x86_64              @updates
+ ** Updated nss-tools-3.28.4-1.el6_9.x86_64                @?updates
+    Update            3.28.4-3.el6_9.x86_64                @updates
+ ** Updated python34-3.4.5-1.el6.x86_64                    @epel
+    Update           3.4.5-2.el6.x86_64                    @epel
+ ** Updated python34-libs-3.4.5-1.el6.x86_64               @epel
+    Update                3.4.5-2.el6.x86_64               @epel
+ ** Updated sudo-1.8.6p3-27.el6.x86_64                     @?base
+    Update       1.8.6p3-28.el6_9.x86_64                   @updates
+ ** Updated xorg-x11-drv-ati-7.6.1-2.el6.x86_64            @base
+    Update                   7.6.1-3.el6_9.x86_64          @updates
+ ** Updated xorg-x11-drv-ati-firmware-7.6.1-2.el6.noarch   @base
+    Update                            7.6.1-3.el6_9.noarch @updates
+Packages Skipped:
+    Newer         libsmbios-2.3.1-2372.10488.el6.x86_64                     
+    Not installed 1:net-snmp-utils-5.5-60.el6.x86_64                        
+    Newer         smbios-utils-bin-2.3.1-2372.10488.el6.x86_64              
+    Newer         srvadmin-all-8.5.0-2372.10488.el6.x86_64                  
+    Newer         srvadmin-base-8.5.0-2372.10488.el6.x86_64                 
+    Newer         srvadmin-cm-8.5.0-2372.10488.el6.x86_64                   
+    Newer         srvadmin-deng-8.5.0-2372.10488.el6.x86_64                 
+    Newer         srvadmin-deng-snmp-8.5.0-2372.10488.el6.x86_64            
+    Newer         srvadmin-idrac-8.5.0-2372.10488.el6.x86_64                
+    Newer         srvadmin-idrac-snmp-8.5.0-2372.10488.el6.x86_64           
+    Not installed srvadmin-idrac7-8.5.0-2372.10488.el6.x86_64               
+    Newer         srvadmin-idracadm-8.5.0-2372.10488.el6.x86_64             
+    Not installed srvadmin-idracadm7-8.5.0-2372.10488.el6.x86_64            
+    Newer         srvadmin-isvc-8.5.0-2372.10488.el6.x86_64                 
+    Newer         srvadmin-isvc-snmp-8.5.0-2372.10488.el6.x86_64            
+    Newer         srvadmin-itunnelprovider-8.5.0-2372.10488.el6.x86_64      
+    Newer         srvadmin-jre-8.5.0-2372.10488.el6.x86_64                  
+    Newer         srvadmin-omacore-8.5.0-2372.10488.el6.x86_64              
+    Newer         srvadmin-omacs-8.5.0-2372.10488.el6.x86_64                
+    Not installed srvadmin-omaksmig-8.5.0-2372.10488.el6.x86_64             
+    Newer         srvadmin-omcommon-8.5.0-2372.10488.el6.x86_64             
+    Newer         srvadmin-omilcore-8.5.0-2372.10488.el6.x86_64             
+    Newer         srvadmin-ominst-8.5.0-2372.10488.el6.x86_64               
+    Newer         srvadmin-oslog-8.5.0-2372.10488.el6.x86_64                
+    Newer         srvadmin-rac-components-8.5.0-2372.10488.el6.x86_64       
+    Newer         srvadmin-rac4-8.5.0-2372.10488.el6.x86_64                 
+    Newer         srvadmin-rac4-populator-8.5.0-2372.10488.el6.x86_64       
+    Newer         srvadmin-rac5-8.5.0-2372.10488.el6.x86_64                 
+    Newer         srvadmin-racadm4-8.5.0-2372.10488.el6.x86_64              
+    Newer         srvadmin-racadm5-8.5.0-2372.10488.el6.x86_64              
+    Newer         srvadmin-racdrsc-8.5.0-2372.10488.el6.x86_64              
+    Newer         srvadmin-racsvc-8.5.0-2372.10488.el6.x86_64               
+    Newer         srvadmin-server-cli-8.5.0-2372.10488.el6.x86_64           
+    Newer         srvadmin-server-snmp-8.5.0-2372.10488.el6.x86_64          
+    Newer         srvadmin-smcommon-8.5.0-2372.10488.el6.x86_64             
+    Newer         srvadmin-smweb-8.5.0-2372.10488.el6.x86_64                
+    Newer         srvadmin-standardAgent-8.5.0-2372.10488.el6.x86_64        
+    Newer         srvadmin-storage-8.5.0-2372.10488.el6.x86_64              
+    Newer         srvadmin-storage-cli-8.5.0-2372.10488.el6.x86_64          
+    Newer         srvadmin-storage-snmp-8.5.0-2372.10488.el6.x86_64         
+    Newer         srvadmin-storageservices-8.5.0-2372.10488.el6.x86_64      
+    Newer         srvadmin-storageservices-cli-8.5.0-2372.10488.el6.x86_64  
+    Newer         srvadmin-storageservices-snmp-8.5.0-2372.10488.el6.x86_64 
+    Newer         srvadmin-storelib-8.5.0-2372.10488.el6.x86_64             
+    Newer         srvadmin-sysfsutils-8.5.0-2372.10488.el6.x86_64           
+    Newer         srvadmin-tomcat-8.5.0-2372.10488.el6.x86_64               
+    Newer         srvadmin-webserver-8.5.0-2372.10488.el6.x86_64            
+Scriptlet output:
+   1 gitlab preinstall: Automatically backing up only the GitLab SQL database (excluding everything else!)
+   2 rake aborted!
+   3 TypeError: no implicit conversion of nil into String
+   4 /opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:83:in `expand_path'
+   5 /opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:83:in `absolute'
+   6 /opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:413:in `block in <top (required)>'
+   7 /opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:411:in `each'
+   8 /opt/gitlab/embedded/service/gitlab-rails/config/initializers/1_settings.rb:411:in `<top (required)>'
+   9 /opt/gitlab/embedded/service/gitlab-rails/config/environment.rb:5:in `<top (required)>'
+  10 /opt/gitlab/embedded/bin/bundle:22:in `load'
+  11 /opt/gitlab/embedded/bin/bundle:22:in `<main>'
+  12 Tasks: TOP => gitlab:backup:create => environment
+  13 (See full trace by running task with --trace)
+  14 gitlab preinstall: 
+  15 gitlab preinstall: Backup failed! If you want to skip this backup, run the following command and
+  16 gitlab preinstall: try again:
+  17 gitlab preinstall: 
+  18 gitlab preinstall:   sudo touch /etc/gitlab/skip-auto-migrations
+  19 gitlab preinstall: 
+  20 error: %pre(gitlab-ce-9.2.5-ce.0.el6.x86_64) scriptlet failed, exit status 1
+  21 error:   install: %pre scriptlet failed (2), skipping gitlab-ce-9.2.5-ce.0.el6
+  22 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/updates failed: No such file or directory
+  23 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/modules.order failed: No such file or directory
+  24 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/modules.networking failed: No such file or directory
+  25 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/modules.modesetting failed: No such file or directory
+  26 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/modules.drm failed: No such file or directory
+  27 warning:    erase unlink of /lib/modules/2.6.32-573.7.1.el6.x86_64/modules.block failed: No such file or directory
+history info
